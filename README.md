@@ -1,73 +1,125 @@
-# Microsoft 365 Lab
+# Completed Labs
 
-
+# Lab 1 – Microsoft Outlook User Support
 
 ## Objective
 
+Learn common Microsoft Outlook support tasks performed by IT Support technicians, including managing Junk Email settings, troubleshooting the Global Address List, restoring Outlook view settings, resolving calendar issues, maintaining mailbox settings, and configuring delegate access.
 
+---
 
-Learn Microsoft 365 administration skills including Outlook, Exchange, Teams, SharePoint and user management.
+## Managing Junk Email
 
+### IT Support Task
 
+A user reports that emails from a trusted sender are being delivered to the Junk Email folder instead of their Inbox.
 
-## Topics Covered
+### Actions Performed
 
+- Reviewed Junk Email settings
+- Added trusted senders to the Safe Senders list
+- Removed blocked senders where appropriate
+- Reviewed Junk Email options
 
+### Screenshot
 
-### Outlook
+---
 
-- Signatures
+## Global Address List (Address Book)
 
-- Out of Office Replies
+### IT Support Task
 
-- Mail Management
+A user cannot locate a coworker when composing an email or scheduling a meeting.
 
+### Actions Performed
 
+- Opened the Global Address List
+- Searched for internal users
+- Verified address book availability
+- Downloaded the Offline Address Book to synchronize Exchange information
 
-### Exchange Admin Center
+### Screenshot
 
-- Mailboxes
+---
 
-- Roles
+## Outlook View Troubleshooting
 
-- Health Monitoring
+### IT Support Task
 
+A user reports Outlook appears different after an accidental change. The Reading Pane is missing and emails are no longer displayed correctly.
 
+### Actions Performed
 
-### Microsoft 365 Groups
+- Restored the Reading Pane
+- Reviewed Folder Pane settings
+- Disabled Focused Inbox
+- Restored email sorting options
+- Reviewed column configuration
 
-- Distribution Groups
+### Screenshot
 
-- Microsoft 365 Groups
+---
 
+## Calendar Management
 
+### IT Support Task
 
-### Teams Administration
+A user cannot access a shared calendar or experiences issues scheduling meetings.
 
+### Actions Performed
 
+- Opened Calendar view
+- Added calendars from the Global Address List
+- Reviewed shared calendar permissions
+- Removed and re-added shared calendars as a troubleshooting step
 
-### SharePoint Administration
+### Screenshot
 
+---
 
+## Mailbox Maintenance
 
-### Mobile Devices
+### IT Support Task
 
-- Android
+A user receives mailbox storage warnings or requires assistance managing mailbox settings.
 
-- iPhone
+### Actions Performed
 
+- Opened Mailbox Cleanup
+- Reviewed mailbox size
+- Identified large and older mailbox items
+- Reviewed Rules and Alerts
+- Reviewed Account Settings
 
+### Screenshot
 
-### Troubleshooting
+---
 
-- Outlook Issues
+## Delegate Access
 
-- Email Issues
+### IT Support Task
 
-- Office 365 Support
+A manager requires an assistant to manage calendar invitations and meeting requests on their behalf.
 
+### Actions Performed
 
+- Opened Outlook Account Settings
+- Configured Delegate Access
+- Assigned calendar permissions
+- Reviewed meeting request delegation settings
 
-## Status
+### Screenshot
 
-Not Started
+---
+
+## Skills Demonstrated
+
+- Microsoft Outlook Administration
+- Exchange Online Integration
+- Global Address List Management
+- Outlook Troubleshooting
+- Calendar Administration
+- Mailbox Management
+- Delegate Access Configuration
+- End-User Support
+- Microsoft 365 Help Desk Operations
