@@ -1,6 +1,6 @@
 # Lab 1 – Microsoft Outlook Overview
 
-This lab demonstrates common Microsoft Outlook administrative tasks performed by an IT Support Technician. The scenarios focus on mailbox management, user configuration, Exchange features, calendar administration, and Outlook troubleshooting.
+This lab demonstrates common Microsoft Outlook administrative tasks performed by an IT Support Technician. The scenarios focus on mailbox management, user configuration, Microsoft Exchange features, calendar administration, and Outlook troubleshooting.
 
 ---
 
@@ -9,6 +9,10 @@ This lab demonstrates common Microsoft Outlook administrative tasks performed by
 **Purpose**
 
 Learn how to block unwanted senders and manage Junk Email settings to help users control spam and recover legitimate email if accidentally blocked.
+
+**Location**
+
+Home → More (...) → Block
 
 **Result**
 
@@ -24,6 +28,10 @@ Successfully accessed the Block Sender and Junk Email options from Outlook and r
 
 Access the Global Address List (GAL) to locate users, verify contact information, and understand how Outlook integrates with Microsoft Exchange.
 
+**Location**
+
+Home → Address Book
+
 **Result**
 
 Successfully opened the Global Address List, searched for users, and viewed Exchange contact information.
@@ -37,6 +45,10 @@ Successfully opened the Global Address List, searched for users, and viewed Exch
 **Purpose**
 
 Update the Offline Address Book to synchronize the latest Global Address List from Microsoft Exchange.
+
+**Location**
+
+Send/Receive → Download Address Book
 
 **Result**
 
@@ -52,6 +64,10 @@ Successfully accessed the Offline Address Book download settings and verified sy
 
 Configure common Outlook view settings used during Help Desk troubleshooting, including disabling Focused Inbox and adjusting the Reading Pane.
 
+**Location**
+
+View → Show Focused Inbox / Layout → Reading Pane
+
 **Result**
 
 Successfully reviewed Outlook view settings, disabled Focused Inbox, and verified Reading Pane configuration options.
@@ -65,6 +81,10 @@ Successfully reviewed Outlook view settings, disabled Focused Inbox, and verifie
 **Purpose**
 
 Review calendar sharing permissions and understand how Outlook controls user access to calendars within Microsoft Exchange.
+
+**Location**
+
+Calendar → Calendar Properties → Permissions
 
 **Result**
 
@@ -80,6 +100,10 @@ Successfully opened Calendar Properties and reviewed the available permission le
 
 Configure Delegate Access to allow another user to manage calendar items and receive meeting requests on behalf of the mailbox owner.
 
+**Location**
+
+File → Account Settings → Delegate Access
+
 **Result**
 
 Successfully added a delegate and reviewed available permission levels for Calendar, Tasks, Inbox, Contacts, and Notes.
@@ -87,7 +111,3 @@ Successfully added a delegate and reviewed available permission levels for Calen
 **Screenshot**
 
 ---
-- Mailbox Management
-- Delegate Access Configuration
-- End-User Support
-- Microsoft 365 Help Desk Operations
