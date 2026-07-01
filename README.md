@@ -207,8 +207,7 @@ Control Panel → Mail → Show Profiles → Add
 Successfully accessed Outlook Mail settings and created a new Outlook profile to demonstrate one of the most common troubleshooting techniques used to resolve Outlook startup problems.
 
 **Screenshot**
-
----
+<img width="1918" height="1011" alt="Image 5" src="https://github.com/user-attachments/assets/ba1f857a-2bf0-47da-b119-ae8dc30644db" />
 
 ## Scenario 2 – Outlook Data File Repair (ScanPST)
 
@@ -225,8 +224,7 @@ File Explorer → Microsoft Office Installation Folder → ScanPST.exe
 Successfully located the Microsoft Inbox Repair Tool used to scan and repair Outlook data files when mailbox corruption is suspected.
 
 **Screenshot**
-
----
+<img width="1918" height="1008" alt="Image 6" src="https://github.com/user-attachments/assets/9cd5b365-e836-4660-8d8a-7fe1275847da" />
 
 ## Scenario 3 – Outlook Search Index
 
@@ -243,8 +241,7 @@ File → Options → Search → Indexing Options → Advanced
 Successfully accessed the Windows Search indexing options and identified where the Outlook search index can be rebuilt.
 
 **Screenshot**
-
----
+<img width="1918" height="1007" alt="Image 7" src="https://github.com/user-attachments/assets/58ee542b-ef69-4359-921f-6662b5072f9f" />
 
 ## Scenario 4 – Send and Receive Troubleshooting
 
@@ -261,8 +258,7 @@ Send/Receive → Work Offline
 Successfully reviewed Outlook Send/Receive settings and identified Work Offline as a common cause of email delivery problems.
 
 **Screenshot**
-
----
+<img width="1918" height="1011" alt="Image 8" src="https://github.com/user-attachments/assets/bb337ede-ee0e-4602-a18f-0dfd50c813ff" />
 
 ## Scenario 5 – Windows Credential Manager
 
@@ -279,8 +275,7 @@ Control Panel → Credential Manager → Windows Credentials
 Successfully located Windows Credential Manager and identified where stored Microsoft 365 credentials can be managed during authentication troubleshooting.
 
 **Screenshot**
-
----
+<img width="1918" height="1008" alt="Image 9" src="https://github.com/user-attachments/assets/83d15029-d490-43ad-9283-add800c77b7b" />
 
 ## Skills Demonstrated
 
