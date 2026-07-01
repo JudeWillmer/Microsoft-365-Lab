@@ -1,5 +1,3 @@
-# Completed Labs
-
 # Lab 1 – Microsoft Outlook User Support
 
 ## Objective
