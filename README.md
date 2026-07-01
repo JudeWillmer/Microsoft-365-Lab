@@ -46,7 +46,7 @@ Update the Offline Address Book to synchronize the latest Global Address List fr
 
 **Location**
 
-Send/Receive → Download Address Book
+Send/Receive → Send/Receive Groups → Download Address Book
 
 **Result**
 
@@ -80,7 +80,7 @@ Review calendar sharing permissions and understand how Outlook controls user acc
 
 **Location**
 
-Calendar → Calendar Properties → Permissions
+Calendar → Calendar Properties → Share → Permissions
 
 **Result**
 
