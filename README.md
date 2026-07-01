@@ -148,7 +148,7 @@ Task Manager → Processes
 Verified Microsoft Office applications running in the background and demonstrated where to end a stuck process before attempting additional troubleshooting.
 
 **Screenshot**
-<img width="1918" height="1008" alt="Image 2" src="https://github.com/user-attachments/assets/66f5be74-86a2-447e-953f-bad8735d16db" />
+<img width="1918" height="971" alt="Image 2" src="https://github.com/user-attachments/assets/37fe8972-0448-4a2d-92f1-fd987d6bb893" />
 
 ## Scenario 3 – Excel Open and Repair
 
