@@ -1,122 +1,92 @@
-# Lab 1 – Microsoft Outlook User Support
+# Lab 1 – Microsoft Outlook Overview
 
-## Objective
-
-Learn common Microsoft Outlook support tasks performed by IT Support technicians, including managing Junk Email settings, troubleshooting the Global Address List, restoring Outlook view settings, resolving calendar issues, maintaining mailbox settings, and configuring delegate access.
+This lab demonstrates common Microsoft Outlook administrative tasks performed by an IT Support Technician. The scenarios focus on mailbox management, user configuration, Exchange features, calendar administration, and Outlook troubleshooting.
 
 ---
 
-## Managing Junk Email
+## Scenario 1 – Block Sender / Junk Email
 
-### IT Support Task
+**Purpose**
 
-A user reports that emails from a trusted sender are being delivered to the Junk Email folder instead of their Inbox.
+Learn how to block unwanted senders and manage Junk Email settings to help users control spam and recover legitimate email if accidentally blocked.
 
-### Actions Performed
+**Result**
 
-- Reviewed Junk Email settings
-- Added trusted senders to the Safe Senders list
-- Removed blocked senders where appropriate
-- Reviewed Junk Email options
+Successfully accessed the Block Sender and Junk Email options from Outlook and reviewed the available spam management settings.
 
-### Screenshot
+**Screenshot**
 
 ---
 
-## Global Address List (Address Book)
+## Scenario 2 – Global Address List (Address Book)
 
-### IT Support Task
+**Purpose**
 
-A user cannot locate a coworker when composing an email or scheduling a meeting.
+Access the Global Address List (GAL) to locate users, verify contact information, and understand how Outlook integrates with Microsoft Exchange.
 
-### Actions Performed
+**Result**
 
-- Opened the Global Address List
-- Searched for internal users
-- Verified address book availability
-- Downloaded the Offline Address Book to synchronize Exchange information
+Successfully opened the Global Address List, searched for users, and viewed Exchange contact information.
 
-### Screenshot
+**Screenshot**
 
 ---
 
-## Outlook View Troubleshooting
+## Scenario 3 – Download Offline Address Book
 
-### IT Support Task
+**Purpose**
 
-A user reports Outlook appears different after an accidental change. The Reading Pane is missing and emails are no longer displayed correctly.
+Update the Offline Address Book to synchronize the latest Global Address List from Microsoft Exchange.
 
-### Actions Performed
+**Result**
 
-- Restored the Reading Pane
-- Reviewed Folder Pane settings
-- Disabled Focused Inbox
-- Restored email sorting options
-- Reviewed column configuration
+Successfully accessed the Offline Address Book download settings and verified synchronization options.
 
-### Screenshot
+**Screenshot**
 
 ---
 
-## Calendar Management
+## Scenario 4 – Outlook View Configuration
 
-### IT Support Task
+**Purpose**
 
-A user cannot access a shared calendar or experiences issues scheduling meetings.
+Configure common Outlook view settings used during Help Desk troubleshooting, including disabling Focused Inbox and adjusting the Reading Pane.
 
-### Actions Performed
+**Result**
 
-- Opened Calendar view
-- Added calendars from the Global Address List
-- Reviewed shared calendar permissions
-- Removed and re-added shared calendars as a troubleshooting step
+Successfully reviewed Outlook view settings, disabled Focused Inbox, and verified Reading Pane configuration options.
 
-### Screenshot
+**Screenshot**
 
 ---
 
-## Mailbox Maintenance
+## Scenario 5 – Calendar Permissions
 
-### IT Support Task
+**Purpose**
 
-A user receives mailbox storage warnings or requires assistance managing mailbox settings.
+Review calendar sharing permissions and understand how Outlook controls user access to calendars within Microsoft Exchange.
 
-### Actions Performed
+**Result**
 
-- Opened Mailbox Cleanup
-- Reviewed mailbox size
-- Identified large and older mailbox items
-- Reviewed Rules and Alerts
-- Reviewed Account Settings
+Successfully opened Calendar Properties and reviewed the available permission levels for calendar sharing.
 
-### Screenshot
+**Screenshot**
 
 ---
 
-## Delegate Access
+## Scenario 6 – Delegate Access
 
-### IT Support Task
+**Purpose**
 
-A manager requires an assistant to manage calendar invitations and meeting requests on their behalf.
+Configure Delegate Access to allow another user to manage calendar items and receive meeting requests on behalf of the mailbox owner.
 
-### Actions Performed
+**Result**
 
-- Opened Outlook Account Settings
-- Configured Delegate Access
-- Assigned calendar permissions
-- Reviewed meeting request delegation settings
+Successfully added a delegate and reviewed available permission levels for Calendar, Tasks, Inbox, Contacts, and Notes.
 
-### Screenshot
+**Screenshot**
 
 ---
-
-## Skills Demonstrated
-
-- Microsoft Outlook Administration
-- Exchange Online Integration
-- Global Address List Management
-- Outlook Troubleshooting
-- Calendar Administration
 - Mailbox Management
 - Delegate Access Configuration
 - End-User Support
