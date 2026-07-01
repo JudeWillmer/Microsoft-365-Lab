@@ -80,7 +80,7 @@ Review calendar sharing permissions and understand how Outlook controls user acc
 
 **Location**
 
-Calendar → Calendar Properties → Share → Permissions
+Calendar → Share → Calendar Properties → Permissions
 
 **Result**
 
