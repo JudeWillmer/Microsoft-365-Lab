@@ -186,254 +186,111 @@ Successfully accessed the Microsoft 365 repair options and identified Quick Repa
 
 # Lab 2B – Common Outlook Issues
 
-## Scenario
+## Objective
 
-A user reports multiple Microsoft Outlook issues, including Outlook failing to open, slow performance, search not working, email delivery problems, and authentication prompts. As the Help Desk technician, I investigated each issue using common Microsoft 365 and Windows troubleshooting techniques to restore Outlook functionality.
-
----
-
-## Purpose
-
-The purpose of this lab was to troubleshoot common Microsoft Outlook problems by diagnosing profile corruption, repairing Outlook data files, rebuilding the Windows Search index, verifying account connectivity, and applying standard Help Desk troubleshooting procedures.
+Troubleshoot common Microsoft Outlook issues using a structured Help Desk approach. Learn how to resolve profile-related problems, repair Outlook data files, rebuild the Outlook search index, troubleshoot send and receive issues, and manage stored Microsoft 365 credentials.
 
 ---
 
-## Location
+## Scenario 1 – Outlook Profile Management
 
-- Microsoft Outlook
-- Microsoft 365 Apps
-- Control Panel
-- Mail (Microsoft Outlook)
-- Windows Search Service
-- Windows Credential Manager
-- File Explorer
-- ScanPST.exe
+**Purpose**
 
----
+Create a new Outlook profile to troubleshoot profile corruption and Outlook startup issues.
 
-## Objectives
+**Location**
 
-- Troubleshoot Outlook startup issues.
-- Launch Outlook in Safe Mode.
-- Create a new Outlook profile.
-- Repair Outlook data files using ScanPST.
-- Rebuild the Outlook search index.
-- Restart the Windows Search service.
-- Troubleshoot send and receive issues.
-- Verify Work Offline mode.
-- Manage Outlook credentials using Credential Manager.
-- Apply common Outlook troubleshooting best practices.
+Control Panel → Mail → Show Profiles → Add
+
+**Result**
+
+Successfully accessed Outlook Mail settings and created a new Outlook profile to demonstrate one of the most common troubleshooting techniques used to resolve Outlook startup problems.
+
+**Screenshot**
 
 ---
 
-# Outlook Won't Open
+## Scenario 2 – Outlook Data File Repair (ScanPST)
 
-## Issue
+**Purpose**
 
-Outlook failed to launch due to a corrupt Outlook profile, damaged OST file, or conflicting add-ins.
+Locate and use the Microsoft Inbox Repair Tool (ScanPST.exe) to repair corrupted Outlook Personal Storage Table (PST) files.
 
-## Troubleshooting Steps
+**Location**
 
-- Tested Outlook in Safe Mode using `outlook.exe /safe`.
-- Created a new Outlook profile using **Control Panel → Mail → Show Profiles → Add**.
-- Allowed Outlook to recreate a new OST file and resynchronize mailbox data from Microsoft 365.
+File Explorer → Microsoft Office Installation Folder → ScanPST.exe
 
-## Result
+**Result**
 
-Creating a new Outlook profile resolved profile corruption and restored Outlook functionality.
+Successfully located the Microsoft Inbox Repair Tool used to scan and repair Outlook data files when mailbox corruption is suspected.
 
-**Screenshot:**
-*Insert screenshot showing Mail → Show Profiles → Add Profile.*
+**Screenshot**
 
 ---
 
-# Slow Outlook Performance
+## Scenario 3 – Outlook Search Index
 
-## Issue
+**Purpose**
 
-Outlook was running slowly due to a large mailbox, excessive add-ins, or possible Outlook data file corruption.
+Access Outlook indexing options to troubleshoot search issues caused by a corrupted or incomplete Windows Search index.
 
-## Troubleshooting Steps
+**Location**
 
-- Reviewed installed Outlook add-ins.
-- Confirmed Office repair as a troubleshooting option.
-- Used **ScanPST.exe** to scan and repair Outlook Personal Storage Table (PST) files when corruption was suspected.
+File → Options → Search → Indexing Options → Advanced
 
-## Result
+**Result**
 
-Repairing Outlook data files and removing unnecessary add-ins improved Outlook performance and stability.
+Successfully accessed the Windows Search indexing options and identified where the Outlook search index can be rebuilt.
 
-**Screenshot:**
-*Insert screenshot showing ScanPST.exe.*
+**Screenshot**
 
 ---
 
-# Outlook Search Not Working
+## Scenario 4 – Send and Receive Troubleshooting
 
-## Issue
+**Purpose**
 
-Users were unable to locate emails because the Windows Search index had become corrupted or incomplete.
+Review Outlook Send/Receive settings and verify that Work Offline mode is disabled when troubleshooting email delivery issues.
 
-## Troubleshooting Steps
+**Location**
 
-- Navigated to **File → Options → Search → Indexing Options → Advanced → Rebuild**.
-- Restarted the **Windows Search** service through Services when required.
+Send/Receive → Work Offline
 
-## Result
+**Result**
 
-Rebuilding the search index restored Outlook search functionality.
+Successfully reviewed Outlook Send/Receive settings and identified Work Offline as a common cause of email delivery problems.
 
-**Screenshot:**
-*Insert screenshot showing Outlook Indexing Options (or Windows Search Service).*
+**Screenshot**
 
 ---
 
-# Cannot Send or Receive Emails
+## Scenario 5 – Windows Credential Manager
 
-## Issue
+**Purpose**
 
-Users were unable to send or receive emails due to connectivity issues, incorrect configuration, Work Offline mode, antivirus interference, or Outlook rules.
+Access Windows Credential Manager to troubleshoot Microsoft 365 authentication and repeated Outlook password prompts.
 
-## Troubleshooting Steps
+**Location**
 
-- Verified internet connectivity.
-- Confirmed account configuration.
-- Checked Outlook Send/Receive settings.
-- Verified Work Offline mode was disabled.
-- Reviewed antivirus software and Outlook rules that could block mail flow.
+Control Panel → Credential Manager → Windows Credentials
 
-## Result
+**Result**
 
-After correcting the Outlook configuration and disabling Work Offline mode, email functionality was restored.
+Successfully located Windows Credential Manager and identified where stored Microsoft 365 credentials can be managed during authentication troubleshooting.
 
-**Screenshot:**
-*Insert screenshot showing the Outlook Send/Receive ribbon with Work Offline.*
-
----
-
-# Frequent Outlook Crashes
-
-## Issue
-
-Outlook frequently crashed because of conflicting add-ins, outdated Office applications, or profile corruption.
-
-## Troubleshooting Steps
-
-- Reviewed installed COM Add-ins.
-- Confirmed Microsoft Office was fully updated.
-- Recreated the Outlook profile when profile corruption was suspected.
-
-## Result
-
-Removing conflicting add-ins and rebuilding the Outlook profile resolved repeated Outlook crashes.
-
----
-
-# Password Prompt Keeps Appearing
-
-## Issue
-
-Users were repeatedly prompted for their Microsoft 365 password due to cached credential corruption or authentication issues.
-
-## Troubleshooting Steps
-
-- Verified account credentials.
-- Opened **Control Panel → Credential Manager → Windows Credentials**.
-- Removed outdated cached Outlook credentials and allowed Outlook to authenticate again.
-
-## Result
-
-Refreshing cached credentials eliminated repeated authentication prompts.
-
-**Screenshot:**
-*Insert screenshot showing Windows Credential Manager.*
-
----
-
-# Attachments Won't Open
-
-## Issue
-
-Users were unable to open email attachments because of blocked file types, incorrect file associations, or Outlook add-in conflicts.
-
-## Troubleshooting Steps
-
-- Verified Outlook security settings.
-- Checked Windows default file associations.
-- Reviewed Outlook add-ins for conflicts.
-
-## Result
-
-Correcting file associations and resolving Outlook configuration issues restored attachment functionality.
-
----
-
-# Outlook Data File (.PST) Issues
-
-## Issue
-
-A corrupt Outlook PST file caused mailbox errors and Outlook instability.
-
-## Troubleshooting Steps
-
-- Used **ScanPST.exe** to scan and repair the Outlook data file.
-- Confirmed mailbox integrity after the repair completed successfully.
-
-## Result
-
-Repairing the PST file restored Outlook stability and resolved mailbox corruption.
-
----
-
-# Calendar Issues
-
-## Issue
-
-Shared calendars were not synchronizing correctly because of profile corruption, synchronization problems, or insufficient permissions.
-
-## Troubleshooting Steps
-
-- Verified Outlook synchronization settings.
-- Recreated the Outlook profile when required.
-- Confirmed calendar permissions for shared mailboxes.
-
-## Result
-
-Calendar synchronization resumed after correcting profile and permission issues.
-
----
-
-# Outlook Rules
-
-## Issue
-
-Incorrect Outlook rules automatically moved or deleted incoming emails.
-
-## Troubleshooting Steps
-
-- Reviewed configured Outlook rules.
-- Compared mailbox behaviour using Outlook on the Web (OWA).
-- Confirmed whether the issue was client-side or mailbox-related.
-
-## Result
-
-Removing incorrect mailbox rules restored expected email delivery behaviour.
+**Screenshot**
 
 ---
 
 ## Skills Demonstrated
 
 - Microsoft Outlook Troubleshooting
-- Microsoft 365 Administration
 - Outlook Profile Management
-- Outlook Safe Mode
-- ScanPST Inbox Repair Tool
+- Outlook Data File Repair (ScanPST)
 - Windows Search Indexing
-- Windows Services
+- Outlook Send/Receive Troubleshooting
 - Windows Credential Manager
-- Mail Flow Troubleshooting
-- Outlook Rules
+- Microsoft 365 Authentication
+- Help Desk Troubleshooting Methodology
 - Root Cause Analysis
-- Help Desk Troubleshooting
 - End-User Support
-- Microsoft Windows Administration
