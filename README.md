@@ -481,7 +481,7 @@ Successfully reviewed Microsoft 365 software update status and identified device
 
 ## Objective
 
-Perform common Microsoft 365 mailbox administration tasks using the Microsoft 365 Admin Center and Microsoft Outlook. Learn how to configure mailbox permissions, manage delegated mailbox access, connect shared mailboxes, and access another user's mailbox as part of day-to-day Microsoft 365 administration.
+Perform common Microsoft 365 mailbox administration tasks using the Microsoft 365 Admin Center and Microsoft Outlook. Learn how to review and configure mailbox permissions, grant delegated mailbox access, and add or remove shared mailboxes as part of day-to-day Microsoft 365 administration.
 
 ---
 
@@ -500,8 +500,7 @@ Microsoft 365 Admin Center → Users → Active Users → Select User → Mail
 Successfully reviewed the mailbox permission options available for the selected user account and identified where delegated mailbox access can be configured.
 
 ### Screenshot
-
-*Insert screenshot here.*
+<img width="1918" height="1010" alt="Image 1" src="https://github.com/user-attachments/assets/1bf3d4b0-d4e4-41d4-bbd6-db8360373d4c" />
 
 ---
 
@@ -520,8 +519,7 @@ Microsoft 365 Admin Center → Users → Active Users → Select User → Mail �
 Successfully reviewed and configured mailbox permissions, allowing delegated access to another user's mailbox.
 
 ### Screenshot
-
-*Insert screenshot here.*
+<img width="1918" height="1008" alt="Image 2" src="https://github.com/user-attachments/assets/75617e1f-2f49-4807-817a-f0e25c8ac84f" />
 
 ---
 
@@ -540,25 +538,4 @@ Outlook → File → Account Settings → Account Settings → Data Files → Se
 Successfully identified the location used to add and remove shared mailboxes within the Outlook desktop client.
 
 ### Screenshot
-
-*Insert screenshot here.*
-
----
-
-## Scenario 4 – Open Another User's Folder
-
-### Purpose
-
-Open another user's mailbox folder in Outlook using delegated mailbox permissions.
-
-### Location
-
-Outlook → File → Open & Export → Other User's Folder
-
-### Result
-
-Successfully accessed the option used to open another user's mailbox folder after delegated permissions had been assigned.
-
-### Screenshot
-
-*Insert screenshot here.*
+<img width="1918" height="1011" alt="Image 3" src="https://github.com/user-attachments/assets/dfd401b6-d876-440f-acb1-60b17e97a4df" />
