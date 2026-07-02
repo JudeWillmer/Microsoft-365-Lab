@@ -294,6 +294,10 @@ Successfully located Windows Credential Manager and identified where stored Micr
 
 # Section 1 – Introduction to Exchange Admin Center
 
+## Objective
+
+Learn how to perform common Microsoft 365 administration tasks within the Exchange Admin Center, including creating user accounts, configuring user templates, managing mailboxes, reviewing user account settings, enabling Multi-Factor Authentication (MFA), and assigning administrative roles using the principle of least privilege.
+
 ## Scenario 1 – Create a New Microsoft 365 User Account
 
 **Purpose**
