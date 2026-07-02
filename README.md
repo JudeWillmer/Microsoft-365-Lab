@@ -539,3 +539,49 @@ Successfully identified the location used to add and remove shared mailboxes wit
 
 ### Screenshot
 <img width="1918" height="1011" alt="Image 3" src="https://github.com/user-attachments/assets/dfd401b6-d876-440f-acb1-60b17e97a4df" />
+
+# Lab 5 – Calendar Permissions & Delegation
+
+## Objective
+
+Perform common Microsoft Outlook calendar administration tasks by configuring delegate access and calendar permissions. Learn how to grant users access to manage another user's calendar or share calendar availability using different permission levels as part of day-to-day Microsoft 365 administration.
+
+---
+
+## Scenario 1 – Configure Delegate Access
+
+### Purpose
+
+Grant delegate access to another user, allowing them to manage your calendar, create meetings, and respond to meeting requests based on the assigned permissions.
+
+### Location
+
+Microsoft Outlook → File → Account Settings → Delegate Access
+
+### Result
+
+Successfully configured delegate access for another user and reviewed the available permission levels for managing a mailbox owner's calendar.
+
+### Screenshot
+
+*Insert screenshot here*
+
+---
+
+## Scenario 2 – Configure Calendar Permissions
+
+### Purpose
+
+Share a calendar with another user by assigning calendar permissions such as Reviewer or Editor without granting full delegate access.
+
+### Location
+
+Microsoft Outlook → Calendar → Right-click Calendar → Properties → Permissions
+
+### Result
+
+Successfully configured calendar permissions for another user, allowing appropriate access to view or manage calendar information.
+
+### Screenshot
+
+*Insert screenshot here*
