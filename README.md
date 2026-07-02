@@ -315,8 +315,7 @@ Microsoft 365 Admin Center → Users → Active Users → Add a user
 Successfully created a new Microsoft 365 user account, assigned a Microsoft 365 license, configured a temporary password, and completed the initial sign-in and Microsoft Authenticator registration process.
 
 ### Screenshot
-
-> Insert Screenshot – Creating a new Microsoft 365 user account. *(Image 905)*
+<img width="1918" height="968" alt="Image 1" src="https://github.com/user-attachments/assets/9a99bcdf-4abd-488c-ae34-177ac1c417f0" />
 
 ---
 
@@ -335,8 +334,7 @@ Microsoft 365 Admin Center → Users → Active Users → User templates
 Successfully created a reusable user template with predefined settings and administrative permissions to streamline future user account creation.
 
 ### Screenshot
-
-> Insert Screenshot – Creating a user template and assigning Helpdesk Administrator permissions. *(Image 908)*
+<img width="1918" height="1010" alt="Image 2" src="https://github.com/user-attachments/assets/e0166de7-ac12-44d3-8410-5318ae30ed4c" />
 
 ---
 
@@ -355,8 +353,7 @@ Microsoft 365 Admin Center → Exchange → Recipients → Mailboxes
 Successfully accessed the Exchange Admin Center and reviewed mailbox administration features, including mail flow settings, mailbox delegation, and options to convert user mailboxes into shared mailboxes.
 
 ### Screenshot
-
-> Insert Screenshot – Exchange Admin Center mailbox management. *(Image 909)*
+<img width="1918" height="1008" alt="Image 3" src="https://github.com/user-attachments/assets/327247a7-700c-4d8c-9c60-901f4527d64f" />
 
 ---
 
@@ -375,8 +372,7 @@ Microsoft 365 Admin Center → Users → Active Users → Select User
 Successfully reviewed user account details, password reset options, assigned administrative roles, sign-in management, and available Multi-Factor Authentication (MFA) settings.
 
 ### Screenshot
-
-> Insert Screenshot – Microsoft 365 user account details. *(Image 910)*
+<img width="1918" height="1008" alt="Image 4" src="https://github.com/user-attachments/assets/cf968054-4538-43dd-9071-8b73a66eee37" />
 
 ---
 
@@ -395,7 +391,4 @@ Microsoft 365 Admin Center → Users → Active Users → Select User → Manage
 Successfully reviewed available Microsoft 365 administrative roles and identified how Exchange Administrator permissions can be assigned according to the user's job responsibilities while following the principle of least privilege.
 
 ### Screenshot
-
-> Insert Screenshot – Managing Microsoft 365 administrative roles. *(Image 911)*
-
-**Screenshot**
+<img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/a563716a-cc53-4d19-8052-1673956d84ba" />
