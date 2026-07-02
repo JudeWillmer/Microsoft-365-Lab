@@ -605,8 +605,7 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Add 
 Successfully created a new Microsoft Team and configured the initial team settings, owners, and members.
 
 ### Screenshot
-
-*(Insert Screenshot 1 – Create Team Wizard)*
+<img width="1918" height="968" alt="Image 1" src="https://github.com/user-attachments/assets/fd70c77d-a184-4258-9cca-e7b233fec55d" />
 
 ---
 
@@ -625,8 +624,7 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Sele
 Successfully reviewed team membership and demonstrated how users can be managed within an existing Microsoft Team.
 
 ### Screenshot
-
-*(Insert Screenshot 2 – Team Membership)*
+<img width="1912" height="1000" alt="Image 2" src="https://github.com/user-attachments/assets/70557618-ebac-4317-aff3-705ffc1f48f3" />
 
 ---
 
@@ -645,8 +643,7 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Add 
 Successfully created a Distribution Group with assigned owners and members for centralized email distribution.
 
 ### Screenshot
-
-*(Insert Screenshot 3 – Create Distribution Group)*
+<img width="1918" height="1010" alt="Image 3" src="https://github.com/user-attachments/assets/60b347f5-ef2a-4da9-a457-d7b3124300e8" />
 
 ---
 
@@ -665,9 +662,5 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Sele
 Successfully reviewed and configured group settings, including delivery management, privacy, and external sender options for Microsoft 365 groups.
 
 ### Screenshot 1
-
-*(Insert Screenshot 4 – Distribution Group Settings)*
-
-### Screenshot 2
-
-*(Insert Screenshot 5 – Microsoft 365 Group Settings)*
+<img width="1918" height="1010" alt="Image 4" src="https://github.com/user-attachments/assets/6dc47a9f-fbb9-435d-8e88-2ee0b2fc6627" />
+<img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/2013932b-e7be-419e-a4a0-393bfe897284" />
