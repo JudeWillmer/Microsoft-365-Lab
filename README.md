@@ -481,88 +481,84 @@ Successfully reviewed Microsoft 365 software update status and identified device
 
 ## Objective
 
-Perform common Microsoft 365 mailbox administration tasks using the Microsoft 365 Admin Center and Microsoft Outlook. Configure mailbox permissions, manage delegated access, connect shared mailboxes in Outlook, and remove mailbox access when no longer required.
+Perform common Microsoft 365 mailbox administration tasks using the Microsoft 365 Admin Center and Microsoft Outlook. Learn how to configure mailbox permissions, manage delegated mailbox access, connect shared mailboxes, and access another user's mailbox as part of day-to-day Microsoft 365 administration.
 
 ---
 
-## 4A – Configure Mailbox Permissions
+## Scenario 1 – Review Mailbox Permission Options
 
-### Scenario 1 – Review Mailbox Permission Options
+### Purpose
 
-**Purpose**
+Review the mailbox permission options available for a Microsoft 365 user, including Full Access (Read and manage), Send As, and Send on behalf permissions.
 
-Review mailbox permission options available for a Microsoft 365 user mailbox, including Read and manage, Send as, and Send on behalf permissions.
-
-**Location**
+### Location
 
 Microsoft 365 Admin Center → Users → Active Users → Select User → Mail
 
-**Result**
+### Result
 
 Successfully reviewed the mailbox permission options available for the selected user account and identified where delegated mailbox access can be configured.
 
-**Screenshot**
+### Screenshot
 
 *Insert screenshot here.*
 
 ---
 
-### Scenario 2 – Configure Read and Manage Permissions
+## Scenario 2 – Configure Read and Manage Permissions
 
-**Purpose**
+### Purpose
 
-Grant another user permission to open, read, and manage a mailbox using Read and manage permissions.
+Grant another user Full Access (Read and manage) permissions so they can open and manage another user's mailbox.
 
-**Location**
+### Location
 
 Microsoft 365 Admin Center → Users → Active Users → Select User → Mail → Read and manage permissions
 
-**Result**
+### Result
 
-Successfully reviewed and configured Read and manage mailbox permissions for delegated mailbox access.
+Successfully reviewed and configured mailbox permissions, allowing delegated access to another user's mailbox.
 
-**Screenshot**
+### Screenshot
 
 *Insert screenshot here.*
 
 ---
 
-## 4B – Connect and Manage Shared Mailboxes in Outlook
+## Scenario 3 – Add or Remove a Shared Mailbox in Outlook
 
-### Scenario 1 – Add or Remove a Shared Mailbox in Outlook
+### Purpose
 
-**Purpose**
+Connect a shared mailbox to Outlook and identify where it can be removed when access is no longer required or for troubleshooting purposes.
 
-Add a shared mailbox to Outlook so the delegated user can access it, and identify where the mailbox can be removed when access is no longer required.
-
-**Location**
+### Location
 
 Outlook → File → Account Settings → Account Settings → Data Files → Settings → Advanced
 
-**Result**
+### Result
 
-Successfully identified where shared mailboxes can be added or removed from the Outlook desktop client.
+Successfully identified the location used to add and remove shared mailboxes within the Outlook desktop client.
 
-**Screenshot**
+### Screenshot
 
 *Insert screenshot here.*
 
 ---
 
-### Scenario 2 – Open Another User's Folder
+## Scenario 4 – Open Another User's Folder
 
-**Purpose**
+### Purpose
 
 Open another user's mailbox folder in Outlook using delegated mailbox permissions.
 
-**Location**
+### Location
 
 Outlook → File → Open & Export → Other User's Folder
 
-**Result**
+### Result
 
-Successfully identified the Outlook option used to open another user's mailbox folder when delegated permissions have been granted.
+Successfully accessed the option used to open another user's mailbox folder after delegated permissions had been assigned.
 
-**Screenshot**
+### Screenshot
 
 *Insert screenshot here.*
