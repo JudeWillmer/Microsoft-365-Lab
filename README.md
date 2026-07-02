@@ -336,7 +336,7 @@ Access the Exchange Admin Center to review and manage mailbox settings for Micro
 
 **Location**
 
-Exchange Admin Center → Recipients → Mailboxes
+Microsoft 365 Admin Center → Exchange → Recipients → Mailboxes
 
 **Result**
 
