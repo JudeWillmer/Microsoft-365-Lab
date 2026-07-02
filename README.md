@@ -418,8 +418,7 @@ Microsoft 365 Admin Center → Health → Service Health → Report an issue
 Successfully reviewed current Microsoft 365 service advisories and demonstrated how to submit a new service issue to Microsoft for investigation.
 
 **Screenshot**
-
-*Insert screenshot here.*
+<img width="1918" height="1008" alt="Image 6" src="https://github.com/user-attachments/assets/8e0eeab3-8f8d-4e9d-bb29-7c8f134b2790" />
 
 ---
 
@@ -438,8 +437,7 @@ Microsoft 365 Admin Center → Health → Service Health → Customize
 Successfully configured Service Health notification preferences and selected the Microsoft 365 services and issue types to monitor.
 
 **Screenshot**
-
-*Insert screenshot here.*
+<img width="1918" height="1008" alt="Image 7" src="https://github.com/user-attachments/assets/abbc5274-df71-4b95-a32d-31740abcb9f2" />
 
 ---
 
@@ -458,8 +456,7 @@ Microsoft 365 Admin Center → Health → Threats and antivirus
 Successfully reviewed the Threats and Antivirus dashboard and verified the current protection status of managed devices.
 
 **Screenshot**
-
-*Insert screenshot here.*
+<img width="1918" height="1008" alt="Image 8" src="https://github.com/user-attachments/assets/873f7777-ab77-4b79-8d5f-703ccb73c8de" />
 
 ---
 
@@ -478,5 +475,4 @@ Microsoft 365 Admin Center → Health → Software updates
 Successfully reviewed Microsoft 365 software update status and identified devices requiring security updates.
 
 **Screenshot**
-
-*Insert screenshot here.*
+<img width="1918" height="1008" alt="Image 9" src="https://github.com/user-attachments/assets/546a63b0-5d77-4ad6-90ef-c8aa65ca72c3" />
