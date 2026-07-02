@@ -289,3 +289,93 @@ Successfully located Windows Credential Manager and identified where stored Micr
 - Help Desk Troubleshooting Methodology
 - Root Cause Analysis
 - End-User Support
+
+# Lab 3 – Working Title
+
+## Scenario 1 – Create a New Microsoft 365 User Account
+
+**Purpose**
+
+Create a new Microsoft 365 user account through the Microsoft 365 Admin Center.
+
+**Location**
+
+Microsoft 365 Admin Center → Show All → Exchange → Users → Active Users → Add a user
+
+**Result**
+
+Successfully reviewed the user creation process, including account details, licensing, temporary password setup, first-time sign-in, and Microsoft Authenticator registration.
+
+**Screenshot**
+
+---
+
+## Scenario 2 – Create a User Template
+
+**Purpose**
+
+Create a reusable user template to standardize account creation and reduce repetitive setup tasks.
+
+**Location**
+
+Microsoft 365 Admin Center → Show All → Exchange → Users → Active Users → User templates
+
+**Result**
+
+Successfully reviewed how user templates can be used to apply predefined settings and administrative roles for future user accounts.
+
+**Screenshot**
+
+---
+
+## Scenario 3 – Manage Exchange Mailboxes
+
+**Purpose**
+
+Access the Exchange Admin Center to review and manage mailbox settings for Microsoft 365 users.
+
+**Location**
+
+Exchange Admin Center → Recipients → Mailboxes
+
+**Result**
+
+Successfully accessed the mailbox management area and reviewed available mailbox options, including mail flow settings, mailbox delegation, and converting a user mailbox to a shared mailbox.
+
+**Screenshot**
+
+---
+
+## Scenario 4 – Review User Settings and MFA
+
+**Purpose**
+
+Review an existing Microsoft 365 user account and identify available account management and security options.
+
+**Location**
+
+Microsoft 365 Admin Center → Users → Active Users → Select User
+
+**Result**
+
+Successfully reviewed user account settings, including password reset, block sign-in, role assignments, group membership, sign-out options, and Multi-Factor Authentication management.
+
+**Screenshot**
+
+---
+
+## Scenario 5 – Manage Microsoft 365 Administrative Roles
+
+**Purpose**
+
+Review and assign Microsoft 365 administrative roles using the principle of least privilege.
+
+**Location**
+
+Microsoft 365 Admin Center → Users → Active Users → Select User → Manage Roles
+
+**Result**
+
+Successfully accessed the admin role management panel and reviewed available roles, including Exchange Administrator, Helpdesk Administrator, Global Administrator, and User Administrator.
+
+**Screenshot**
