@@ -563,8 +563,7 @@ Microsoft Outlook → File → Account Settings → Delegate Access
 Successfully configured delegate access for another user and reviewed the available permission levels for managing a mailbox owner's calendar.
 
 ### Screenshot
-
-*Insert screenshot here*
+<img width="1918" height="968" alt="Image 1" src="https://github.com/user-attachments/assets/e42b6e8c-908f-4362-8b29-3f0c6c4a01d7" />
 
 ---
 
@@ -583,5 +582,4 @@ Microsoft Outlook → Calendar → Right-click Calendar → Properties → Permi
 Successfully configured calendar permissions for another user, allowing appropriate access to view or manage calendar information.
 
 ### Screenshot
-
-*Insert screenshot here*
+<img width="1918" height="1008" alt="Image 2" src="https://github.com/user-attachments/assets/f9a28119-39a4-44eb-9e7b-69b506cd0b8a" />
