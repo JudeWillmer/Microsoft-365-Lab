@@ -292,7 +292,7 @@ Successfully located Windows Credential Manager and identified where stored Micr
 
 # Lab 3 – Working Title
 
-## Section 1 – Introduction to Exchange Admin Center
+# Section 1 – Introduction to Exchange Admin Center
 
 ## Scenario 1 – Create a New Microsoft 365 User Account
 
