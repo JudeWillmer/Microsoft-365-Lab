@@ -300,7 +300,7 @@ Create a new Microsoft 365 user account through the Microsoft 365 Admin Center.
 
 **Location**
 
-Microsoft 365 Admin Center → Show All → Exchange → Users → Active Users → Add a user
+Microsoft 365 Admin Center → Users → Active Users → Add a user
 
 **Result**
 
@@ -318,7 +318,7 @@ Create a reusable user template to standardize account creation and reduce repet
 
 **Location**
 
-Microsoft 365 Admin Center → Show All → Exchange → Users → Active Users → User templates
+Microsoft 365 Admin Center → Users → Active Users → User templates
 
 **Result**
 
