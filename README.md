@@ -581,3 +581,93 @@ Successfully configured calendar permissions for another user, allowing appropri
 
 ### Screenshot
 <img width="1918" height="1007" alt="Image 2" src="https://github.com/user-attachments/assets/07cf4e6d-8845-45da-8588-05f67597235c" />
+
+# Lab 6 – Microsoft 365 Groups Administration
+
+## Objective
+
+Perform common Microsoft 365 group administration tasks using the Microsoft 365 Admin Center and Exchange Admin Center. Learn how to create Microsoft Teams and Distribution Groups, manage group membership, and configure group settings used for collaboration and email communication as part of day-to-day Microsoft 365 administration.
+
+---
+
+## Scenario 1 – Create a Microsoft Team
+
+### Purpose
+
+Create a new Microsoft Team to provide users with a shared workspace for collaboration, file sharing, conversations, and Microsoft 365 services.
+
+### Location
+
+Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Add a team
+
+### Result
+
+Successfully created a new Microsoft Team and configured the initial team settings, owners, and members.
+
+### Screenshot
+
+*(Insert Screenshot 1 – Create Team Wizard)*
+
+---
+
+## Scenario 2 – Manage Team Membership
+
+### Purpose
+
+Review and manage the membership of an existing Microsoft Team by adding or removing users and reviewing team settings.
+
+### Location
+
+Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Select Team → Membership
+
+### Result
+
+Successfully reviewed team membership and demonstrated how users can be managed within an existing Microsoft Team.
+
+### Screenshot
+
+*(Insert Screenshot 2 – Team Membership)*
+
+---
+
+## Scenario 3 – Create a Distribution Group
+
+### Purpose
+
+Create a Distribution Group to simplify email communication by allowing messages to be sent to multiple users through a single email address.
+
+### Location
+
+Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Add a Distribution List
+
+### Result
+
+Successfully created a Distribution Group with assigned owners and members for centralized email distribution.
+
+### Screenshot
+
+*(Insert Screenshot 3 – Create Distribution Group)*
+
+---
+
+## Scenario 4 – Manage Group Settings
+
+### Purpose
+
+Review and configure Microsoft 365 group settings, including external email access, delivery management, privacy, and communication options for different group types.
+
+### Location
+
+Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Select Group → Manage more settings in the Exchange Admin Center → Groups → Settings
+
+### Result
+
+Successfully reviewed and configured group settings, including delivery management, privacy, and external sender options for Microsoft 365 groups.
+
+### Screenshot 1
+
+*(Insert Screenshot 4 – Distribution Group Settings)*
+
+### Screenshot 2
+
+*(Insert Screenshot 5 – Microsoft 365 Group Settings)*
