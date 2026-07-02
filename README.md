@@ -661,6 +661,6 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Sele
 
 Successfully reviewed and configured group settings, including delivery management, privacy, and external sender options for Microsoft 365 groups.
 
-### Screenshot 1
+### Screenshot
 <img width="1918" height="1010" alt="Image 4" src="https://github.com/user-attachments/assets/6dc47a9f-fbb9-435d-8e88-2ee0b2fc6627" />
 <img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/2013932b-e7be-419e-a4a0-393bfe897284" />
