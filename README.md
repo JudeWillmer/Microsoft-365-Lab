@@ -292,96 +292,110 @@ Successfully located Windows Credential Manager and identified where stored Micr
 
 # Lab 3 – Working Title
 
-# Section 1 – Introduction to Exchange Admin Center
-
 ## Objective
 
-Learn how to perform common Microsoft 365 administration tasks within the Exchange Admin Center, including creating user accounts, configuring user templates, managing mailboxes, reviewing user account settings, enabling Multi-Factor Authentication (MFA), and assigning administrative roles using the principle of least privilege.
+Perform common Microsoft 365 administration tasks using the Microsoft 365 Admin Center and Exchange Admin Center. Learn how to create and manage user accounts, configure administrative roles, manage Exchange mailboxes, and review user security settings as part of day-to-day Microsoft 365 administration.
 
-## Scenario 1 – Create a New Microsoft 365 User Account
+---
 
-**Purpose**
+# 3A – Exchange Admin Center Administration
 
-Create a new Microsoft 365 user account through the Microsoft 365 Admin Center.
+## Scenario 1 – Create a Microsoft 365 User
 
-**Location**
+### Purpose
+
+Create a new Microsoft 365 user account and complete the initial account setup process.
+
+### Location
 
 Microsoft 365 Admin Center → Users → Active Users → Add a user
 
-**Result**
+### Result
 
-Successfully reviewed the user creation process, including account details, licensing, temporary password setup, first-time sign-in, and Microsoft Authenticator registration.
+Successfully created a new Microsoft 365 user account, assigned a Microsoft 365 license, configured a temporary password, and completed the initial sign-in and Microsoft Authenticator registration process.
 
-**Screenshot**
+### Screenshot
+
+> Insert Screenshot – Creating a new Microsoft 365 user account. *(Image 905)*
 
 ---
 
 ## Scenario 2 – Create a User Template
 
-**Purpose**
+### Purpose
 
-Create a reusable user template to standardize account creation and reduce repetitive setup tasks.
+Create a reusable user template to standardize account creation and reduce administrative configuration time.
 
-**Location**
+### Location
 
 Microsoft 365 Admin Center → Users → Active Users → User templates
 
-**Result**
+### Result
 
-Successfully reviewed how user templates can be used to apply predefined settings and administrative roles for future user accounts.
+Successfully created a reusable user template with predefined settings and administrative permissions to streamline future user account creation.
 
-**Screenshot**
+### Screenshot
+
+> Insert Screenshot – Creating a user template and assigning Helpdesk Administrator permissions. *(Image 908)*
 
 ---
 
 ## Scenario 3 – Manage Exchange Mailboxes
 
-**Purpose**
+### Purpose
 
-Access the Exchange Admin Center to review and manage mailbox settings for Microsoft 365 users.
+Review available mailbox management options within the Exchange Admin Center.
 
-**Location**
+### Location
 
 Microsoft 365 Admin Center → Exchange → Recipients → Mailboxes
 
-**Result**
+### Result
 
-Successfully accessed the mailbox management area and reviewed available mailbox options, including mail flow settings, mailbox delegation, and converting a user mailbox to a shared mailbox.
+Successfully accessed the Exchange Admin Center and reviewed mailbox administration features, including mail flow settings, mailbox delegation, and options to convert user mailboxes into shared mailboxes.
 
-**Screenshot**
+### Screenshot
+
+> Insert Screenshot – Exchange Admin Center mailbox management. *(Image 909)*
 
 ---
 
-## Scenario 4 – Review User Settings and MFA
+## Scenario 4 – Review User Account Settings
 
-**Purpose**
+### Purpose
 
-Review an existing Microsoft 365 user account and identify available account management and security options.
+Review Microsoft 365 user account information and available security management options.
 
-**Location**
+### Location
 
 Microsoft 365 Admin Center → Users → Active Users → Select User
 
-**Result**
+### Result
 
-Successfully reviewed user account settings, including password reset, block sign-in, role assignments, group membership, sign-out options, and Multi-Factor Authentication management.
+Successfully reviewed user account details, password reset options, assigned administrative roles, sign-in management, and available Multi-Factor Authentication (MFA) settings.
 
-**Screenshot**
+### Screenshot
+
+> Insert Screenshot – Microsoft 365 user account details. *(Image 910)*
 
 ---
 
-## Scenario 5 – Manage Microsoft 365 Administrative Roles
+## Scenario 5 – Assign Administrative Roles
 
-**Purpose**
+### Purpose
 
-Review and assign Microsoft 365 administrative roles using the principle of least privilege.
+Review and assign Microsoft 365 administrative roles based on the principle of least privilege.
 
-**Location**
+### Location
 
 Microsoft 365 Admin Center → Users → Active Users → Select User → Manage Roles
 
-**Result**
+### Result
 
-Successfully accessed the admin role management panel and reviewed available roles, including Exchange Administrator, Helpdesk Administrator, Global Administrator, and User Administrator.
+Successfully reviewed available Microsoft 365 administrative roles and identified how Exchange Administrator permissions can be assigned according to the user's job responsibilities while following the principle of least privilege.
+
+### Screenshot
+
+> Insert Screenshot – Managing Microsoft 365 administrative roles. *(Image 911)*
 
 **Screenshot**
