@@ -394,3 +394,89 @@ Successfully reviewed available Microsoft 365 administrative roles and identifie
 
 ### Screenshot
 <img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/a563716a-cc53-4d19-8052-1673956d84ba" />
+
+## 3B – Microsoft 365 Health Monitoring
+
+## Objective
+
+Monitor Microsoft 365 tenant health using the Microsoft 365 Admin Center. Review service advisories, report service issues to Microsoft, configure health notifications, and check security-related dashboards such as Threats and antivirus and Software updates.
+
+---
+
+### Scenario 1 – Report a Service Issue
+
+**Purpose**
+
+Review the Microsoft 365 Service Health dashboard and report a service issue to Microsoft Support when an outage or application problem affects users.
+
+**Location**
+
+Microsoft 365 Admin Center → Health → Service Health → Report an issue
+
+**Result**
+
+Successfully reviewed current Microsoft 365 service advisories and demonstrated how to submit a new service issue to Microsoft for investigation.
+
+**Screenshot**
+
+*Insert screenshot here.*
+
+---
+
+### Scenario 2 – Configure Service Health Notifications
+
+**Purpose**
+
+Customize Microsoft 365 Service Health notifications by selecting which services generate alerts and configuring email notifications for service incidents and advisories.
+
+**Location**
+
+Microsoft 365 Admin Center → Health → Service Health → Customize
+
+**Result**
+
+Successfully configured Service Health notification preferences and selected the Microsoft 365 services and issue types to monitor.
+
+**Screenshot**
+
+*Insert screenshot here.*
+
+---
+
+### Scenario 3 – Review Threats and Antivirus Status
+
+**Purpose**
+
+Review the Microsoft 365 security dashboard to monitor antivirus detections, active threats, and the protection status of managed devices.
+
+**Location**
+
+Microsoft 365 Admin Center → Health → Threats and antivirus
+
+**Result**
+
+Successfully reviewed the Threats and Antivirus dashboard and verified the current protection status of managed devices.
+
+**Screenshot**
+
+*Insert screenshot here.*
+
+---
+
+### Scenario 4 – Review Software Update Status
+
+**Purpose**
+
+Review Microsoft 365 software update status to identify devices requiring security patches and ensure applications remain up to date.
+
+**Location**
+
+Microsoft 365 Admin Center → Health → Software updates
+
+**Result**
+
+Successfully reviewed Microsoft 365 software update status and identified devices requiring security updates.
+
+**Screenshot**
+
+*Insert screenshot here.*
