@@ -292,7 +292,7 @@ Successfully located Windows Credential Manager and identified where stored Micr
 - Root Cause Analysis
 - End-User Support
 
-# Lab 3 – Working Title
+# Lab 3 – Microsoft 365 Administration
 
 ## Objective
 
