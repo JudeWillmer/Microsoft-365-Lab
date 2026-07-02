@@ -605,7 +605,7 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Add 
 Successfully created a new Microsoft Team and configured the initial team settings, owners, and members.
 
 ### Screenshot
-<img width="1918" height="968" alt="Image 1" src="https://github.com/user-attachments/assets/fd70c77d-a184-4258-9cca-e7b233fec55d" />
+<img width="1918" height="970" alt="Image 1" src="https://github.com/user-attachments/assets/e7913009-01c3-4c5c-970a-70f641de721d" />
 
 ---
 
@@ -624,7 +624,7 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Sele
 Successfully reviewed team membership and demonstrated how users can be managed within an existing Microsoft Team.
 
 ### Screenshot
-<img width="1912" height="1000" alt="Image 2" src="https://github.com/user-attachments/assets/70557618-ebac-4317-aff3-705ffc1f48f3" />
+<img width="1918" height="1010" alt="Image 2" src="https://github.com/user-attachments/assets/c4c3df90-d047-46fd-9259-2f2adb65e767" />
 
 ---
 
@@ -663,4 +663,4 @@ Successfully reviewed and configured group settings, including delivery manageme
 
 ### Screenshot
 <img width="1918" height="1010" alt="Image 4" src="https://github.com/user-attachments/assets/6dc47a9f-fbb9-435d-8e88-2ee0b2fc6627" />
-<img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/2013932b-e7be-419e-a4a0-393bfe897284" />
+<img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/3e305cc6-b2ad-4157-b7d4-5236ebde3a29" />
