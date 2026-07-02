@@ -1,5 +1,7 @@
 # Lab 1 – Microsoft Outlook Overview
 
+## Objective
+
 This lab demonstrates common Microsoft Outlook administrative tasks performed by an IT Support Technician. The scenarios focus on mailbox management, user configuration, Microsoft Exchange features, calendar administration, and Outlook troubleshooting.
 
 ---
