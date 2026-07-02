@@ -500,8 +500,7 @@ Microsoft 365 Admin Center → Users → Active Users → Select User → Mail
 Successfully reviewed the mailbox permission options available for the selected user account and identified where delegated mailbox access can be configured.
 
 ### Screenshot
-<img width="1918" height="1010" alt="Image 1" src="https://github.com/user-attachments/assets/1bf3d4b0-d4e4-41d4-bbd6-db8360373d4c" />
-
+<img width="1918" height="968" alt="Image 1" src="https://github.com/user-attachments/assets/849cdabf-7848-4d7e-81cf-3b8e6f7bb1ba" />
 ---
 
 ## Scenario 2 – Configure Read and Manage Permissions
@@ -519,7 +518,7 @@ Microsoft 365 Admin Center → Users → Active Users → Select User → Mail �
 Successfully reviewed and configured mailbox permissions, allowing delegated access to another user's mailbox.
 
 ### Screenshot
-<img width="1918" height="1008" alt="Image 2" src="https://github.com/user-attachments/assets/75617e1f-2f49-4807-817a-f0e25c8ac84f" />
+<img width="1918" height="1010" alt="Image 2" src="https://github.com/user-attachments/assets/3af77142-bad5-47d6-9f49-c0c3387b7022" />
 
 ---
 
@@ -538,7 +537,7 @@ Outlook → File → Account Settings → Account Settings → Data Files → Se
 Successfully identified the location used to add and remove shared mailboxes within the Outlook desktop client.
 
 ### Screenshot
-<img width="1918" height="1011" alt="Image 3" src="https://github.com/user-attachments/assets/dfd401b6-d876-440f-acb1-60b17e97a4df" />
+<img width="1918" height="1007" alt="Image 3" src="https://github.com/user-attachments/assets/53cf0cb4-dc9e-4f87-ad8e-6208bbcc8bdf" />
 
 # Lab 5 – Calendar Permissions & Delegation
 
@@ -563,8 +562,7 @@ Microsoft Outlook → File → Account Settings → Delegate Access
 Successfully configured delegate access for another user and reviewed the available permission levels for managing a mailbox owner's calendar.
 
 ### Screenshot
-<img width="1918" height="968" alt="Image 1" src="https://github.com/user-attachments/assets/e42b6e8c-908f-4362-8b29-3f0c6c4a01d7" />
-
+<img width="1918" height="1008" alt="Image 1" src="https://github.com/user-attachments/assets/269e65d7-152c-4ea0-88aa-9e653924f053" />
 ---
 
 ## Scenario 2 – Configure Calendar Permissions
@@ -582,4 +580,4 @@ Microsoft Outlook → Calendar → Right-click Calendar → Properties → Permi
 Successfully configured calendar permissions for another user, allowing appropriate access to view or manage calendar information.
 
 ### Screenshot
-<img width="1918" height="1008" alt="Image 2" src="https://github.com/user-attachments/assets/f9a28119-39a4-44eb-9e7b-69b506cd0b8a" />
+<img width="1918" height="1007" alt="Image 2" src="https://github.com/user-attachments/assets/07cf4e6d-8845-45da-8588-05f67597235c" />
