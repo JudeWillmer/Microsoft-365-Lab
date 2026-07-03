@@ -681,7 +681,7 @@ Review and manage Microsoft Teams within the organisation by accessing the Teams
 
 **Location**
 
-Microsoft Teams Admin Center → **Teams** → **Manage teams**
+Microsoft Teams Admin Center → Teams → Manage teams
 
 **Result**
 
@@ -701,7 +701,7 @@ Review the organisation-wide Microsoft Teams settings used to manage collaborati
 
 **Location**
 
-Microsoft Teams Admin Center → **Teams** → **Teams settings**
+Microsoft Teams Admin Center → Teams → Teams settings
 
 **Result**
 
@@ -721,7 +721,7 @@ Review Microsoft Teams users and demonstrate where administrators can manage Tea
 
 **Location**
 
-Microsoft Teams Admin Center → **Users** → **Manage users**
+Microsoft Teams Admin Center → Users → Manage users
 
 **Result**
 
@@ -741,7 +741,7 @@ Review and configure Microsoft Teams meeting policies to control meeting schedul
 
 **Location**
 
-Microsoft Teams Admin Center → **Meetings** → **Meeting policies** → **Global (Org-wide default)**
+Microsoft Teams Admin Center → Meetings → Meeting policies → Global (Org-wide default)
 
 **Result**
 
@@ -761,7 +761,7 @@ Review and configure Microsoft Teams messaging policies to control chat behaviou
 
 **Location**
 
-Microsoft Teams Admin Center → **Messaging** → **Messaging policies** → **Global (Org-wide default)**
+Microsoft Teams Admin Center → Messaging → Messaging policies → Global (Org-wide default)
 
 **Result**
 
@@ -781,7 +781,7 @@ Create a new channel within an existing Microsoft Team to organise conversations
 
 **Location**
 
-Microsoft Teams Desktop Application → **Team** → **More options (⋯)** → **Add channel**
+Microsoft Teams Desktop Application → Team → More options (⋯) → Add channel
 
 **Result**
 
@@ -801,7 +801,7 @@ Review and configure Microsoft Teams notification settings to manage how users r
 
 **Location**
 
-Microsoft Teams Desktop Application → **Settings** → **Notifications and activity**
+Microsoft Teams Desktop Application → Settings → Notifications and activity
 
 **Result**
 
