@@ -669,7 +669,7 @@ Successfully reviewed and configured group settings, including delivery manageme
 
 ## Objective
 
-Perform common Microsoft Teams administration tasks using the Microsoft Teams Admin Center and Microsoft Teams Desktop Application. Learn how to manage Microsoft Teams, configure organisation-wide settings, manage users, configure meeting and messaging policies, create channels, and customise user notification settings as part of day-to-day Microsoft Teams administration.
+Perform common Microsoft Teams administration tasks using the Microsoft Teams Admin Center and Microsoft Teams Desktop Application. Learn how to create and manage Microsoft Teams, configure organisation-wide settings, manage users, configure meeting and messaging policies, create channels, and customise user notification settings as part of day-to-day Microsoft Teams administration.
 
 ---
 
