@@ -673,19 +673,19 @@ Perform common Microsoft Teams administration tasks using the Microsoft Teams Ad
 
 ---
 
-## Scenario 1 – Manage Teams
+## Scenario 1 – Create a Microsoft Team
 
 **Purpose**
 
-Review and manage Microsoft Teams within the organisation by accessing the Teams management console. Demonstrate where administrators can create, edit, archive, renew, and delete Teams.
+Create a new Microsoft Team to provide users with a secure workspace for collaboration, communication, and file sharing.
 
 **Location**
 
-Microsoft Teams Admin Center → Teams → Manage teams
+Microsoft Teams Admin Center → **Teams** → **Manage teams** → **Add**
 
 **Result**
 
-Successfully reviewed the existing Microsoft Teams environment and demonstrated where administrators can create new teams, edit existing teams, archive inactive teams, renew teams, and permanently delete teams when required.
+Successfully demonstrated the creation of a new Microsoft Team by configuring the team name, description, owner, and privacy settings within the Microsoft Teams Admin Center.
 
 **Screenshot**
 <img width="1918" height="1008" alt="Image 1" src="https://github.com/user-attachments/assets/07297ce5-9a7b-4709-bbb6-1f533f952170" />
