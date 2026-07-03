@@ -793,3 +793,209 @@ Successfully reviewed the available notification settings and demonstrated how u
 **Screenshot**
 <img width="1918" height="1010" alt="Image 9" src="https://github.com/user-attachments/assets/f27f3d43-b516-4894-9f5a-084661e95ce5" />
 <img width="1918" height="1008" alt="Image 10" src="https://github.com/user-attachments/assets/4aa5c70e-1643-4eb2-99a1-519385708a8e" />
+
+# Lab 8 – SharePoint Administration
+
+## **Objective**
+
+Perform common SharePoint administration tasks using the Microsoft 365 SharePoint Admin Center. Learn how to create and manage SharePoint sites, configure site permissions, manage sharing policies, adjust site settings, and administer SharePoint services as part of day-to-day Microsoft 365 administration.
+
+---
+
+# **Scenario 1 – Access the SharePoint Admin Center**
+
+## **Purpose**
+
+Access the SharePoint Admin Center to manage SharePoint Online services and review the administration dashboard.
+
+## **Location**
+
+Microsoft 365 Admin Center → Show all → SharePoint → Home
+
+## **Result**
+
+Successfully accessed the SharePoint Admin Center dashboard and reviewed the available administration features, including site management, policies, settings, and service information.
+
+## **Screenshot**
+
+(Add Screenshot)
+
+---
+
+# **Scenario 2 – Create a SharePoint Team Site**
+
+## **Purpose**
+
+Create a new SharePoint Team Site for collaboration and configure the initial site settings.
+
+## **Location**
+
+SharePoint Admin Center → Sites → Active sites → Create → Team site
+
+## **Result**
+
+Successfully created a new SharePoint Team Site, selected the IT Help Desk template, configured the site name, privacy settings, owners, and members.
+
+## **Screenshot**
+
+(Add Screenshot)
+
+---
+
+# **Scenario 3 – Access the Newly Created Site**
+
+## **Purpose**
+
+Open the newly created SharePoint site and verify that the site was successfully provisioned.
+
+## **Location**
+
+SharePoint Admin Center → Active sites → Select Site → URL
+
+## **Result**
+
+Successfully opened the SharePoint Helpdesk site and verified that the homepage, navigation menu, documents, and ticketing features were available.
+
+## **Screenshot**
+
+(Add Screenshot)
+
+---
+
+# **Scenario 4 – Configure Site Permissions**
+
+## **Purpose**
+
+Manage user access and configure site permissions for the SharePoint site.
+
+## **Location**
+
+SharePoint Site → Settings → Site permissions
+
+## **Result**
+
+Successfully reviewed site owners, members, visitors, site sharing settings, and advanced permission options used to control access to the SharePoint site.
+
+## **Screenshot**
+
+(Add Screenshot)
+
+---
+
+# **Scenario 5 – Configure Site Settings**
+
+## **Purpose**
+
+Modify site-level configuration settings for a SharePoint site.
+
+## **Location**
+
+SharePoint Admin Center → Active sites → Select Site → Settings
+
+## **Result**
+
+Successfully reviewed and configured site settings including privacy, email options, external sharing configuration, and other site management options.
+
+## **Screenshot**
+
+(Add Screenshot)
+
+---
+
+# **Scenario 6 – Manage Site Membership and Sharing**
+
+## **Purpose**
+
+Manage site membership and share the SharePoint site with additional users.
+
+## **Location**
+
+SharePoint Site → Add members / Share
+
+## **Result**
+
+Successfully reviewed site membership, added members, modified sharing options, and demonstrated sharing the SharePoint site with another user.
+
+## **Screenshot**
+
+(Add Screenshot)
+
+---
+
+# **Scenario 7 – Review SharePoint Apps**
+
+## **Purpose**
+
+Review available SharePoint applications that can be installed within a SharePoint site.
+
+## **Location**
+
+SharePoint Site → Settings → Add an app
+
+## **Result**
+
+Successfully accessed the SharePoint Apps page and reviewed available applications that can be added to extend SharePoint functionality.
+
+## **Screenshot**
+
+(Add Screenshot)
+
+---
+
+# **Scenario 8 – Configure SharePoint Sharing Policies**
+
+## **Purpose**
+
+Review and configure organisation-wide SharePoint sharing policies.
+
+## **Location**
+
+SharePoint Admin Center → Policies → Sharing
+
+## **Result**
+
+Successfully reviewed organisation-wide sharing settings, default sharing link permissions, and external sharing policies used to control collaboration.
+
+## **Screenshot**
+
+(Add Screenshot)
+
+---
+
+# **Scenario 9 – Review SharePoint Access Control Policies**
+
+## **Purpose**
+
+Review organisation-wide access control settings used to secure SharePoint Online.
+
+## **Location**
+
+SharePoint Admin Center → Policies → Access control
+
+## **Result**
+
+Successfully reviewed access control options including unmanaged device access, idle session sign-out, network location restrictions, and legacy authentication settings.
+
+## **Screenshot**
+
+(Add Screenshot)
+
+---
+
+# **Scenario 10 – Review SharePoint Administration Settings**
+
+## **Purpose**
+
+Review the available SharePoint service configuration settings.
+
+## **Location**
+
+SharePoint Admin Center → Settings
+
+## **Result**
+
+Successfully reviewed the SharePoint Settings page, including site creation options, storage limits, notifications, page settings, and OneDrive administration settings.
+
+## **Screenshot**
+
+(Add Screenshot)
