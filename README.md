@@ -6,19 +6,19 @@ This lab demonstrates common Microsoft Outlook administrative tasks performed by
 
 ---
 
-## Scenario 1 – Block Sender / Junk Email
+## Scenario 1 – Create a Microsoft Team
 
 **Purpose**
 
-Learn how to block unwanted senders and manage Junk Email settings to help users control spam and recover legitimate email if accidentally blocked.
+Create a new Microsoft Team to provide users with a secure workspace for collaboration, communication, and file sharing.
 
 **Location**
 
-Home → More (...) → Block
+Microsoft Teams Admin Center → Teams → Manage teams → Add
 
 **Result**
 
-Successfully accessed the Block Sender and Junk Email options from Outlook and reviewed the available spam management settings.
+Successfully demonstrated the creation of a new Microsoft Team by configuring the team name, description, owner, and privacy settings within the Microsoft Teams Admin Center.
 
 **Screenshot**
 <img width="1918" height="971" alt="Image 1" src="https://github.com/user-attachments/assets/a2157501-e9ad-4017-a2d8-93a6f83e3d0a" />
