@@ -681,7 +681,7 @@ Create a new Microsoft Team to provide users with a secure workspace for collabo
 
 **Location**
 
-Microsoft Teams Admin Center → **Teams** → **Manage teams** → **Add**
+Microsoft Teams Admin Center → Teams → Manage teams → Add
 
 **Result**
 
