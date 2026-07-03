@@ -688,8 +688,7 @@ Microsoft Teams Admin Center → Teams → Manage teams
 Successfully reviewed the existing Microsoft Teams environment and demonstrated where administrators can create new teams, edit existing teams, archive inactive teams, renew teams, and permanently delete teams when required.
 
 **Screenshot**
-
-*(Insert Screenshot)*
+<img width="1918" height="1008" alt="Image 1" src="https://github.com/user-attachments/assets/07297ce5-9a7b-4709-bbb6-1f533f952170" />
 
 ---
 
@@ -708,8 +707,7 @@ Microsoft Teams Admin Center → Teams → Teams settings
 Successfully reviewed the available Microsoft Teams organisation settings and demonstrated how administrators can configure collaboration, tagging, email integration, and additional Teams features across the organisation.
 
 **Screenshot**
-
-*(Insert Screenshot)*
+<img width="1918" height="1008" alt="Image 2" src="https://github.com/user-attachments/assets/366d2c11-abf4-4e1e-bdb5-881ef4a99ac7" />
 
 ---
 
@@ -728,8 +726,7 @@ Microsoft Teams Admin Center → Users → Manage users
 Successfully reviewed the Microsoft Teams user list and demonstrated where administrators can manage Teams users and their associated settings.
 
 **Screenshot**
-
-*(Insert Screenshot)*
+<img width="1918" height="1010" alt="Image 3" src="https://github.com/user-attachments/assets/e5087627-ea67-4838-8c62-2c087654d40e" />
 
 ---
 
@@ -748,8 +745,8 @@ Microsoft Teams Admin Center → Meetings → Meeting policies → Global (Org-w
 Successfully reviewed the Global (Org-wide default) meeting policy and demonstrated how administrators can configure meeting scheduling, participant permissions, attendance reports, and additional meeting features for Microsoft Teams users.
 
 **Screenshot**
-
-*(Insert Screenshot)*
+<img width="1918" height="1010" alt="Image 4" src="https://github.com/user-attachments/assets/000efb42-de67-44aa-a21a-256ad2ace4c0" />
+<img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/c9cf91df-bf74-4251-a4ad-f536145376e1" />
 
 ---
 
@@ -768,8 +765,8 @@ Microsoft Teams Admin Center → Messaging → Messaging policies → Global (Or
 Successfully reviewed the Global messaging policy and demonstrated how administrators can configure messaging permissions and communication features available to Microsoft Teams users.
 
 **Screenshot**
-
-*(Insert Screenshot)*
+<img width="1918" height="1008" alt="Image 6" src="https://github.com/user-attachments/assets/8e4eab79-5a1e-4831-b205-8da730dad7ba" />
+<img width="1918" height="1010" alt="Image 7" src="https://github.com/user-attachments/assets/85262d24-c71f-4fe2-acb0-2138e9af72ab" />
 
 ---
 
@@ -788,8 +785,7 @@ Microsoft Teams Desktop Application → Chat → New Items → New channel
 Successfully created a new channel within an existing Microsoft Team and configured the channel name, description, channel type, and layout options.
 
 **Screenshot**
-
-*(Insert Screenshot)*
+<img width="1918" height="1010" alt="Image 8" src="https://github.com/user-attachments/assets/1f0d7cac-99bd-41bb-9a4a-865d8889d90f" />
 
 ---
 
@@ -808,5 +804,5 @@ Microsoft Teams Desktop Application → Settings → Notifications and activity
 Successfully reviewed the available notification settings and demonstrated how users can customise chat, channel, mention, meeting, and activity notifications to suit their individual preferences.
 
 **Screenshot**
-
-*(Insert Screenshot)*
+<img width="1918" height="1010" alt="Image 9" src="https://github.com/user-attachments/assets/f27f3d43-b516-4894-9f5a-084661e95ce5" />
+<img width="1918" height="1008" alt="Image 10" src="https://github.com/user-attachments/assets/4aa5c70e-1643-4eb2-99a1-519385708a8e" />
