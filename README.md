@@ -219,7 +219,7 @@ Locate and use the Microsoft Inbox Repair Tool (ScanPST.exe) to repair corrupted
 
 **Location**
 
-File Explorer → Microsoft Office Installation Folder → ScanPST.exe
+File Explorer → Microsoft Office → Root → Office 16 → ScanPST.exe
 
 **Result**
 
