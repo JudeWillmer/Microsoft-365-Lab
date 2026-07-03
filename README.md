@@ -916,19 +916,19 @@ Successfully reviewed site membership, added members, modified sharing options, 
 
 ---
 
-# **Scenario 7 – Review SharePoint Apps**
+## **Scenario 7 – Share the SharePoint Site**
 
-## **Purpose**
+### **Purpose**
 
-Review available SharePoint applications that can be installed within a SharePoint site.
+Share the SharePoint site with users and configure collaboration permissions to provide secure access to site content.
 
-## **Location**
+### **Location**
 
-SharePoint Site → Settings → Add an app
+SharePoint Site → Share
 
-## **Result**
+### **Result**
 
-Successfully accessed the SharePoint Apps page and reviewed available applications that can be added to extend SharePoint functionality.
+Successfully shared the SharePoint site with another user, reviewed the available sharing permissions, and demonstrated how SharePoint sites can be securely shared for collaboration across the organisation.
 
 ## **Screenshot**
 <img width="1918" height="993" alt="Image 7" src="https://github.com/user-attachments/assets/e2bd8831-969f-4900-bb1b-0bde1fb1a2b8" />
@@ -973,19 +973,19 @@ Successfully reviewed access control options including unmanaged device access, 
 
 ---
 
-# **Scenario 10 – Review SharePoint Administration Settings**
+## **Scenario 10 – Review SharePoint Site Usage Analytics**
 
-## **Purpose**
+### **Purpose**
 
-Review the available SharePoint service configuration settings.
+Review SharePoint site usage analytics to monitor site activity, user engagement, and content usage across the SharePoint site.
 
-## **Location**
+### **Location**
 
-SharePoint Admin Center → Settings
+SharePoint Site → Settings → Site usage
 
-## **Result**
+### **Result**
 
-Successfully reviewed the SharePoint Settings page, including site creation options, storage limits, notifications, page settings, and OneDrive administration settings.
+Successfully reviewed SharePoint site usage analytics, including unique viewers, site visits, average time spent per user, and popular content to monitor site activity and user engagement.
 
 ## **Screenshot**
 <img width="1918" height="992" alt="Image 10" src="https://github.com/user-attachments/assets/ab284602-8df9-4187-bdda-517528b23d50" />
