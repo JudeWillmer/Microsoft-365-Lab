@@ -279,19 +279,6 @@ Successfully located Windows Credential Manager and identified where stored Micr
 **Screenshot**
 <img width="1918" height="1008" alt="Image 9" src="https://github.com/user-attachments/assets/83d15029-d490-43ad-9283-add800c77b7b" />
 
-## Skills Demonstrated
-
-- Microsoft Outlook Troubleshooting
-- Outlook Profile Management
-- Outlook Data File Repair (ScanPST)
-- Windows Search Indexing
-- Outlook Send/Receive Troubleshooting
-- Windows Credential Manager
-- Microsoft 365 Authentication
-- Help Desk Troubleshooting Methodology
-- Root Cause Analysis
-- End-User Support
-
 # Lab 3 – Microsoft 365 Administration
 
 ## Objective
