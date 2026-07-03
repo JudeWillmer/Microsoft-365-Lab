@@ -781,7 +781,7 @@ Create a new channel within an existing Microsoft Team to organise conversations
 
 **Location**
 
-Microsoft Teams Desktop Application → Team → More options (⋯) → Add channel
+Microsoft Teams Desktop Application → Chat → New Items → New channel
 
 **Result**
 
