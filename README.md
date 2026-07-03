@@ -817,8 +817,7 @@ Microsoft 365 Admin Center → Show all → SharePoint → Home
 Successfully accessed the SharePoint Admin Center dashboard and reviewed the available administration features, including site management, policies, settings, and service information.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1918" height="995" alt="Image 1" src="https://github.com/user-attachments/assets/ac3683de-f20b-471e-aaff-5421b00bc2f1" />
 
 ---
 
@@ -837,8 +836,7 @@ SharePoint Admin Center → Sites → Active sites → Create → Team site
 Successfully created a new SharePoint Team Site, selected the IT Help Desk template, configured the site name, privacy settings, owners, and members.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1918" height="992" alt="Image 2" src="https://github.com/user-attachments/assets/9faad2e6-5379-4367-9454-a7f3608535f1" />
 
 ---
 
@@ -857,8 +855,7 @@ SharePoint Admin Center → Active sites → Select Site → URL
 Successfully opened the SharePoint Helpdesk site and verified that the homepage, navigation menu, documents, and ticketing features were available.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1918" height="993" alt="Image 3" src="https://github.com/user-attachments/assets/4c3ae7d6-f839-447f-ae5f-e90194373395" />
 
 ---
 
@@ -877,8 +874,7 @@ SharePoint Site → Settings → Site permissions
 Successfully reviewed site owners, members, visitors, site sharing settings, and advanced permission options used to control access to the SharePoint site.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1918" height="993" alt="Image 4" src="https://github.com/user-attachments/assets/d2a9c9c0-f6ba-43cf-813f-15c908aa04ad" />
 
 ---
 
@@ -897,8 +893,7 @@ SharePoint Admin Center → Active sites → Select Site → Settings
 Successfully reviewed and configured site settings including privacy, email options, external sharing configuration, and other site management options.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1918" height="992" alt="Image 5" src="https://github.com/user-attachments/assets/1d6889c1-20bd-4a90-a09a-22ad2de1700f" />
 
 ---
 
@@ -917,8 +912,7 @@ SharePoint Site → Add members / Share
 Successfully reviewed site membership, added members, modified sharing options, and demonstrated sharing the SharePoint site with another user.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1918" height="992" alt="Image 6" src="https://github.com/user-attachments/assets/1617c7ab-63a4-488c-a0c0-6cfb4f4af171" />
 
 ---
 
@@ -937,8 +931,7 @@ SharePoint Site → Settings → Add an app
 Successfully accessed the SharePoint Apps page and reviewed available applications that can be added to extend SharePoint functionality.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1918" height="993" alt="Image 7" src="https://github.com/user-attachments/assets/e2bd8831-969f-4900-bb1b-0bde1fb1a2b8" />
 
 ---
 
@@ -957,8 +950,7 @@ SharePoint Admin Center → Policies → Sharing
 Successfully reviewed organisation-wide sharing settings, default sharing link permissions, and external sharing policies used to control collaboration.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1918" height="993" alt="Image 8" src="https://github.com/user-attachments/assets/d48ca27a-096c-45d5-905e-e9164ab8c713" />
 
 ---
 
@@ -977,8 +969,7 @@ SharePoint Admin Center → Policies → Access control
 Successfully reviewed access control options including unmanaged device access, idle session sign-out, network location restrictions, and legacy authentication settings.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1917" height="993" alt="Image 9" src="https://github.com/user-attachments/assets/29cf03e2-ab30-4ce3-ba8f-77081749f689" />
 
 ---
 
@@ -997,5 +988,4 @@ SharePoint Admin Center → Settings
 Successfully reviewed the SharePoint Settings page, including site creation options, storage limits, notifications, page settings, and OneDrive administration settings.
 
 ## **Screenshot**
-
-(Add Screenshot)
+<img width="1918" height="992" alt="Image 10" src="https://github.com/user-attachments/assets/ab284602-8df9-4187-bdda-517528b23d50" />
