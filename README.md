@@ -664,3 +664,149 @@ Successfully reviewed and configured group settings, including delivery manageme
 ### Screenshot
 <img width="1918" height="1010" alt="Image 4" src="https://github.com/user-attachments/assets/6dc47a9f-fbb9-435d-8e88-2ee0b2fc6627" />
 <img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/3e305cc6-b2ad-4157-b7d4-5236ebde3a29" />
+
+# Lab 7 – Microsoft Teams Administration
+
+## Objective
+
+Perform common Microsoft Teams administration tasks using the Microsoft Teams Admin Center and Microsoft Teams Desktop Application. Learn how to manage Microsoft Teams, configure organisation-wide settings, manage users, configure meeting and messaging policies, create channels, and customise user notification settings as part of day-to-day Microsoft Teams administration.
+
+---
+
+## Scenario 1 – Manage Teams
+
+**Purpose**
+
+Review and manage Microsoft Teams within the organisation by accessing the Teams management console. Demonstrate where administrators can create, edit, archive, renew, and delete Teams.
+
+**Location**
+
+Microsoft Teams Admin Center → **Teams** → **Manage teams**
+
+**Result**
+
+Successfully reviewed the existing Microsoft Teams environment and demonstrated where administrators can create new teams, edit existing teams, archive inactive teams, renew teams, and permanently delete teams when required.
+
+**Screenshot**
+
+*(Insert Screenshot)*
+
+---
+
+## Scenario 2 – Configure Teams Settings
+
+**Purpose**
+
+Review the organisation-wide Microsoft Teams settings used to manage collaboration features, tagging, email integration, and other Teams functionality.
+
+**Location**
+
+Microsoft Teams Admin Center → **Teams** → **Teams settings**
+
+**Result**
+
+Successfully reviewed the available Microsoft Teams organisation settings and demonstrated how administrators can configure collaboration, tagging, email integration, and additional Teams features across the organisation.
+
+**Screenshot**
+
+*(Insert Screenshot)*
+
+---
+
+## Scenario 3 – Manage Users
+
+**Purpose**
+
+Review Microsoft Teams users and demonstrate where administrators can manage Teams-related user settings within the organisation.
+
+**Location**
+
+Microsoft Teams Admin Center → **Users** → **Manage users**
+
+**Result**
+
+Successfully reviewed the Microsoft Teams user list and demonstrated where administrators can manage Teams users and their associated settings.
+
+**Screenshot**
+
+*(Insert Screenshot)*
+
+---
+
+## Scenario 4 – Configure Meeting Policies
+
+**Purpose**
+
+Review and configure Microsoft Teams meeting policies to control meeting scheduling, participant permissions, and meeting features across the organisation.
+
+**Location**
+
+Microsoft Teams Admin Center → **Meetings** → **Meeting policies** → **Global (Org-wide default)**
+
+**Result**
+
+Successfully reviewed the Global (Org-wide default) meeting policy and demonstrated how administrators can configure meeting scheduling, participant permissions, attendance reports, and additional meeting features for Microsoft Teams users.
+
+**Screenshot**
+
+*(Insert Screenshot)*
+
+---
+
+## Scenario 5 – Configure Messaging Policies
+
+**Purpose**
+
+Review and configure Microsoft Teams messaging policies to control chat behaviour, message editing, message deletion, emojis, GIFs, and other messaging features.
+
+**Location**
+
+Microsoft Teams Admin Center → **Messaging** → **Messaging policies** → **Global (Org-wide default)**
+
+**Result**
+
+Successfully reviewed the Global messaging policy and demonstrated how administrators can configure messaging permissions and communication features available to Microsoft Teams users.
+
+**Screenshot**
+
+*(Insert Screenshot)*
+
+---
+
+## Scenario 6 – Create a Channel
+
+**Purpose**
+
+Create a new channel within an existing Microsoft Team to organise conversations, collaboration, files, and project-related activities.
+
+**Location**
+
+Microsoft Teams Desktop Application → **Team** → **More options (⋯)** → **Add channel**
+
+**Result**
+
+Successfully created a new channel within an existing Microsoft Team and configured the channel name, description, channel type, and layout options.
+
+**Screenshot**
+
+*(Insert Screenshot)*
+
+---
+
+## Scenario 7 – Configure Microsoft Teams Notification Settings
+
+**Purpose**
+
+Review and configure Microsoft Teams notification settings to manage how users receive notifications for chats, channels, mentions, meetings, and other Teams activities.
+
+**Location**
+
+Microsoft Teams Desktop Application → **Settings** → **Notifications and activity**
+
+**Result**
+
+Successfully reviewed the available notification settings and demonstrated how users can customise chat, channel, mention, meeting, and activity notifications to suit their individual preferences.
+
+**Screenshot**
+
+*(Insert Screenshot)*
