@@ -20,7 +20,7 @@ Microsoft Outlook → Home → More (⋯) → Block
 
 Successfully accessed the Block Sender and Junk Email options in Microsoft Outlook and reviewed the available settings used to block unwanted senders and manage spam filtering.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="971" alt="Image 1" src="https://github.com/user-attachments/assets/a2157501-e9ad-4017-a2d8-93a6f83e3d0a" />
 
 ## Scenario 2 – Global Address List (Address Book)
@@ -37,7 +37,7 @@ Home → Address Book
 
 Successfully opened the Global Address List, searched for users, and viewed Exchange contact information.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="970" alt="Image 2" src="https://github.com/user-attachments/assets/e4118b5b-b63c-408f-9f87-4e06e797055f" />
 
 ## Scenario 3 – Download Offline Address Book
@@ -54,7 +54,7 @@ Send/Receive → Send/Receive Groups → Download Address Book
 
 Successfully accessed the Offline Address Book download settings and verified synchronization options.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="971" alt="Image 3" src="https://github.com/user-attachments/assets/f6aab81f-efec-46e8-b640-5d5c3e058390" />
 
 ## Scenario 4 – Outlook View Configuration
@@ -71,7 +71,7 @@ View → Show Focused Inbox / Layout → Reading Pane
 
 Successfully reviewed Outlook view settings, disabled Focused Inbox, and verified Reading Pane configuration options.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="971" alt="Image 4" src="https://github.com/user-attachments/assets/99fa414a-faed-4cbf-ac05-ce1d22ef72fb" />
 
 ## Scenario 5 – Calendar Permissions
@@ -88,7 +88,7 @@ Calendar → Share → Calendar Properties → Permissions
 
 Successfully opened Calendar Properties and reviewed the available permission levels for calendar sharing.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="970" alt="Image 5" src="https://github.com/user-attachments/assets/d10d304a-5ffc-4baa-b389-117af3119a76" />
 
 ## Scenario 6 – Delegate Access
@@ -105,7 +105,7 @@ File → Account Settings → Delegate Access
 
 Successfully added a delegate and reviewed available permission levels for Calendar, Tasks, Inbox, Contacts, and Notes.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="971" alt="Image 6" src="https://github.com/user-attachments/assets/12707e16-434e-44aa-a05f-63205f0175ed" />
 
 # Lab 2 – Office 365 Troubleshooting
@@ -132,7 +132,7 @@ File → Options → Add-ins → COM Add-ins → Go
 
 Successfully reviewed installed COM Add-ins and identified where Office extensions can be enabled, disabled, or removed during troubleshooting.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="972" alt="Image 1" src="https://github.com/user-attachments/assets/cf6ea710-4e52-4293-89d4-f4920045ffd8" />
 
 ## Scenario 2 – Office Applications Stuck in Task Manager
@@ -149,7 +149,7 @@ Task Manager → Processes
 
 Verified Microsoft Office applications running in the background and demonstrated where to end a stuck process before attempting additional troubleshooting.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="971" alt="Image 2" src="https://github.com/user-attachments/assets/37fe8972-0448-4a2d-92f1-fd987d6bb893" />
 
 ## Scenario 3 – Excel Open and Repair
@@ -166,7 +166,7 @@ Excel → Open → Browse → Open ▼ → Open and Repair
 
 Successfully accessed the Open and Repair feature used to recover corrupted Excel workbooks.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 3" src="https://github.com/user-attachments/assets/39a1e7a7-ea3a-4cac-bca5-db39525f424c" />
 
 ## Scenario 4 – Microsoft 365 Repair
@@ -183,7 +183,7 @@ Control Panel → Programs and Features → Microsoft 365 → Change
 
 Successfully accessed the Microsoft 365 repair options and identified Quick Repair and Online Repair as escalation steps before considering a full reinstallation.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="970" alt="Image 4" src="https://github.com/user-attachments/assets/0225ef24-aa59-49d9-b702-b8197b5b244c" />
 
 # Lab 2B – Common Outlook Issues
@@ -208,7 +208,7 @@ Control Panel → Mail → Show Profiles → Add
 
 Successfully accessed Outlook Mail settings and created a new Outlook profile to demonstrate one of the most common troubleshooting techniques used to resolve Outlook startup problems.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1011" alt="Image 5" src="https://github.com/user-attachments/assets/ba1f857a-2bf0-47da-b119-ae8dc30644db" />
 
 ## Scenario 2 – Outlook Data File Repair (ScanPST)
@@ -225,7 +225,7 @@ This PC → Local Disk (C:) → Program Files → Microsoft Office → Root → 
 
 Successfully located the Microsoft Inbox Repair Tool used to scan and repair Outlook data files when mailbox corruption is suspected.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 6" src="https://github.com/user-attachments/assets/9cd5b365-e836-4660-8d8a-7fe1275847da" />
 
 ## Scenario 3 – Outlook Search Index
@@ -242,7 +242,7 @@ File → Options → Search → Indexing Options → Advanced
 
 Successfully accessed the Windows Search indexing options and identified where the Outlook search index can be rebuilt.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1007" alt="Image 7" src="https://github.com/user-attachments/assets/58ee542b-ef69-4359-921f-6662b5072f9f" />
 
 ## Scenario 4 – Send and Receive Troubleshooting
@@ -259,7 +259,7 @@ Send/Receive → Work Offline
 
 Successfully reviewed Outlook Send/Receive settings and identified Work Offline as a common cause of email delivery problems.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1011" alt="Image 8" src="https://github.com/user-attachments/assets/bb337ede-ee0e-4602-a18f-0dfd50c813ff" />
 
 ## Scenario 5 – Windows Credential Manager
@@ -276,7 +276,7 @@ Control Panel → Credential Manager → Windows Credentials
 
 Successfully located Windows Credential Manager and identified where stored Microsoft 365 credentials can be managed during authentication troubleshooting.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 9" src="https://github.com/user-attachments/assets/83d15029-d490-43ad-9283-add800c77b7b" />
 
 # Lab 3 – Microsoft 365 Administration
@@ -303,7 +303,7 @@ Microsoft 365 Admin Center → Users → Active Users → Add a user
 
 Successfully created a new Microsoft 365 user account, assigned a Microsoft 365 license, configured a temporary password, and completed the initial sign-in and Microsoft Authenticator registration process.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="968" alt="Image 1" src="https://github.com/user-attachments/assets/9a99bcdf-4abd-488c-ae34-177ac1c417f0" />
 
 ---
@@ -322,7 +322,7 @@ Microsoft 365 Admin Center → Users → Active Users → User templates
 
 Successfully created a reusable user template with predefined settings and administrative permissions to streamline future user account creation.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1010" alt="Image 2" src="https://github.com/user-attachments/assets/e0166de7-ac12-44d3-8410-5318ae30ed4c" />
 
 ---
@@ -341,7 +341,7 @@ Microsoft 365 Admin Center → Exchange → Recipients → Mailboxes
 
 Successfully accessed the Exchange Admin Center and reviewed mailbox administration features, including mail flow settings, mailbox delegation, and options to convert user mailboxes into shared mailboxes.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1008" alt="Image 3" src="https://github.com/user-attachments/assets/327247a7-700c-4d8c-9c60-901f4527d64f" />
 
 ---
@@ -360,7 +360,7 @@ Microsoft 365 Admin Center → Users → Active Users → Select User
 
 Successfully reviewed user account details, password reset options, assigned administrative roles, sign-in management, and available Multi-Factor Authentication (MFA) settings.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1008" alt="Image 4" src="https://github.com/user-attachments/assets/cf968054-4538-43dd-9071-8b73a66eee37" />
 
 ---
@@ -379,7 +379,7 @@ Microsoft 365 Admin Center → Users → Active Users → Select User → Manage
 
 Successfully reviewed available Microsoft 365 administrative roles and identified how Exchange Administrator permissions can be assigned according to the user's job responsibilities while following the principle of least privilege.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/a563716a-cc53-4d19-8052-1673956d84ba" />
 
 ## 3B – Microsoft 365 Health Monitoring
@@ -404,7 +404,7 @@ Microsoft 365 Admin Center → Health → Service Health → Report an issue
 
 Successfully reviewed current Microsoft 365 service advisories and demonstrated how to submit a new service issue to Microsoft for investigation.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 6" src="https://github.com/user-attachments/assets/8e0eeab3-8f8d-4e9d-bb29-7c8f134b2790" />
 
 ---
@@ -423,7 +423,7 @@ Microsoft 365 Admin Center → Health → Service Health → Customize
 
 Successfully configured Service Health notification preferences and selected the Microsoft 365 services and issue types to monitor.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 7" src="https://github.com/user-attachments/assets/abbc5274-df71-4b95-a32d-31740abcb9f2" />
 
 ---
@@ -442,7 +442,7 @@ Microsoft 365 Admin Center → Health → Threats and antivirus
 
 Successfully reviewed the Threats and Antivirus dashboard and verified the current protection status of managed devices.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 8" src="https://github.com/user-attachments/assets/873f7777-ab77-4b79-8d5f-703ccb73c8de" />
 
 ---
@@ -461,7 +461,7 @@ Microsoft 365 Admin Center → Health → Software updates
 
 Successfully reviewed Microsoft 365 software update status and identified devices requiring security updates.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 9" src="https://github.com/user-attachments/assets/546a63b0-5d77-4ad6-90ef-c8aa65ca72c3" />
 
 # Lab 4 – Mailbox Administration
@@ -486,7 +486,7 @@ Microsoft 365 Admin Center → Users → Active Users → Select User → Mail
 
 Successfully reviewed the mailbox permission options available for the selected user account and identified where delegated mailbox access can be configured.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="968" alt="Image 1" src="https://github.com/user-attachments/assets/849cdabf-7848-4d7e-81cf-3b8e6f7bb1ba" />
 ---
 
@@ -504,7 +504,7 @@ Microsoft 365 Admin Center → Users → Active Users → Select User → Mail �
 
 Successfully reviewed and configured mailbox permissions, allowing delegated access to another user's mailbox.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1010" alt="Image 2" src="https://github.com/user-attachments/assets/3af77142-bad5-47d6-9f49-c0c3387b7022" />
 
 ---
@@ -523,7 +523,7 @@ Outlook → File → Account Settings → Account Settings → Data Files → Se
 
 Successfully identified the location used to add and remove shared mailboxes within the Outlook desktop client.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1007" alt="Image 3" src="https://github.com/user-attachments/assets/53cf0cb4-dc9e-4f87-ad8e-6208bbcc8bdf" />
 
 # Lab 5 – Calendar Permissions & Delegation
@@ -548,7 +548,7 @@ Microsoft Outlook → File → Account Settings → Delegate Access
 
 Successfully configured delegate access for another user and reviewed the available permission levels for managing a mailbox owner's calendar.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1008" alt="Image 1" src="https://github.com/user-attachments/assets/269e65d7-152c-4ea0-88aa-9e653924f053" />
 ---
 
@@ -566,7 +566,7 @@ Microsoft Outlook → Calendar → Right-click Calendar → Properties → Permi
 
 Successfully configured calendar permissions for another user, allowing appropriate access to view or manage calendar information.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1007" alt="Image 2" src="https://github.com/user-attachments/assets/07cf4e6d-8845-45da-8588-05f67597235c" />
 
 # Lab 6 – Microsoft 365 Groups Administration
@@ -591,7 +591,7 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Add 
 
 Successfully created a new Microsoft Team and configured the initial team settings, owners, and members.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="970" alt="Image 1" src="https://github.com/user-attachments/assets/e7913009-01c3-4c5c-970a-70f641de721d" />
 
 ---
@@ -610,7 +610,7 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Sele
 
 Successfully reviewed team membership and demonstrated how users can be managed within an existing Microsoft Team.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1010" alt="Image 2" src="https://github.com/user-attachments/assets/c4c3df90-d047-46fd-9259-2f2adb65e767" />
 
 ---
@@ -629,7 +629,7 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Add 
 
 Successfully created a Distribution Group with assigned owners and members for centralized email distribution.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1010" alt="Image 3" src="https://github.com/user-attachments/assets/60b347f5-ef2a-4da9-a457-d7b3124300e8" />
 
 ---
@@ -648,7 +648,7 @@ Microsoft 365 Admin Center → Teams & Groups → Active Teams & Groups → Sele
 
 Successfully reviewed and configured group settings, including delivery management, privacy, and external sender options for Microsoft 365 groups.
 
-### Screenshot
+### Screenshots
 <img width="1918" height="1010" alt="Image 4" src="https://github.com/user-attachments/assets/6dc47a9f-fbb9-435d-8e88-2ee0b2fc6627" />
 <img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/3e305cc6-b2ad-4157-b7d4-5236ebde3a29" />
 
@@ -674,7 +674,7 @@ Microsoft Teams Admin Center → Teams → Manage teams → Add
 
 Successfully demonstrated the creation of a new Microsoft Team by configuring the team name, description, owner, and privacy settings within the Microsoft Teams Admin Center.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 1" src="https://github.com/user-attachments/assets/07297ce5-9a7b-4709-bbb6-1f533f952170" />
 
 ---
@@ -693,7 +693,7 @@ Microsoft Teams Admin Center → Teams → Teams settings
 
 Successfully reviewed the available Microsoft Teams organisation settings and demonstrated how administrators can configure collaboration, tagging, email integration, and additional Teams features across the organisation.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 2" src="https://github.com/user-attachments/assets/366d2c11-abf4-4e1e-bdb5-881ef4a99ac7" />
 
 ---
@@ -712,7 +712,7 @@ Microsoft Teams Admin Center → Users → Manage users
 
 Successfully reviewed the Microsoft Teams user list and demonstrated where administrators can manage Teams users and their associated settings.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1010" alt="Image 3" src="https://github.com/user-attachments/assets/e5087627-ea67-4838-8c62-2c087654d40e" />
 
 ---
@@ -731,7 +731,7 @@ Microsoft Teams Admin Center → Meetings → Meeting policies → Global (Org-w
 
 Successfully reviewed the Global (Org-wide default) meeting policy and demonstrated how administrators can configure meeting scheduling, participant permissions, attendance reports, and additional meeting features for Microsoft Teams users.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1010" alt="Image 4" src="https://github.com/user-attachments/assets/000efb42-de67-44aa-a21a-256ad2ace4c0" />
 <img width="1918" height="1008" alt="Image 5" src="https://github.com/user-attachments/assets/c9cf91df-bf74-4251-a4ad-f536145376e1" />
 
@@ -751,7 +751,7 @@ Microsoft Teams Admin Center → Messaging → Messaging policies → Global (Or
 
 Successfully reviewed the Global messaging policy and demonstrated how administrators can configure messaging permissions and communication features available to Microsoft Teams users.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1008" alt="Image 6" src="https://github.com/user-attachments/assets/8e4eab79-5a1e-4831-b205-8da730dad7ba" />
 <img width="1918" height="1010" alt="Image 7" src="https://github.com/user-attachments/assets/85262d24-c71f-4fe2-acb0-2138e9af72ab" />
 
@@ -771,7 +771,7 @@ Microsoft Teams Desktop Application → Chat → New Items → New channel
 
 Successfully created a new channel within an existing Microsoft Team and configured the channel name, description, channel type, and layout options.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1010" alt="Image 8" src="https://github.com/user-attachments/assets/1f0d7cac-99bd-41bb-9a4a-865d8889d90f" />
 
 ---
@@ -790,7 +790,7 @@ Microsoft Teams Desktop Application → Settings → Notifications and activity
 
 Successfully reviewed the available notification settings and demonstrated how users can customise chat, channel, mention, meeting, and activity notifications to suit their individual preferences.
 
-**Screenshot**
+**Screenshots**
 <img width="1918" height="1010" alt="Image 9" src="https://github.com/user-attachments/assets/f27f3d43-b516-4894-9f5a-084661e95ce5" />
 <img width="1918" height="1008" alt="Image 10" src="https://github.com/user-attachments/assets/4aa5c70e-1643-4eb2-99a1-519385708a8e" />
 
@@ -816,7 +816,7 @@ Microsoft 365 Admin Center → Show all → SharePoint → Home
 
 Successfully accessed the SharePoint Admin Center dashboard and reviewed the available administration features, including site management, policies, settings, and service information.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1918" height="995" alt="Image 1" src="https://github.com/user-attachments/assets/ac3683de-f20b-471e-aaff-5421b00bc2f1" />
 
 ---
@@ -835,7 +835,7 @@ SharePoint Admin Center → Sites → Active sites → Create → Team site
 
 Successfully created a new SharePoint Team Site, selected the IT Help Desk template, configured the site name, privacy settings, owners, and members.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1918" height="992" alt="Image 2" src="https://github.com/user-attachments/assets/9faad2e6-5379-4367-9454-a7f3608535f1" />
 
 ---
@@ -854,7 +854,7 @@ SharePoint Admin Center → Active sites → Select Site → URL
 
 Successfully opened the SharePoint Helpdesk site and verified that the homepage, navigation menu, documents, and ticketing features were available.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1918" height="993" alt="Image 3" src="https://github.com/user-attachments/assets/4c3ae7d6-f839-447f-ae5f-e90194373395" />
 
 ---
@@ -873,7 +873,7 @@ SharePoint Site → Settings → Site permissions
 
 Successfully reviewed site owners, members, visitors, site sharing settings, and advanced permission options used to control access to the SharePoint site.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1918" height="993" alt="Image 4" src="https://github.com/user-attachments/assets/d2a9c9c0-f6ba-43cf-813f-15c908aa04ad" />
 
 ---
@@ -892,7 +892,7 @@ SharePoint Admin Center → Active sites → Select Site → Settings
 
 Successfully reviewed and configured site settings including privacy, email options, external sharing configuration, and other site management options.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1918" height="992" alt="Image 5" src="https://github.com/user-attachments/assets/1d6889c1-20bd-4a90-a09a-22ad2de1700f" />
 
 ---
@@ -911,7 +911,7 @@ SharePoint Site → Add members / Share
 
 Successfully reviewed site membership, added members, modified sharing options, and demonstrated sharing the SharePoint site with another user.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1918" height="992" alt="Image 6" src="https://github.com/user-attachments/assets/1617c7ab-63a4-488c-a0c0-6cfb4f4af171" />
 
 ---
@@ -930,7 +930,7 @@ SharePoint Site → Share
 
 Successfully shared the SharePoint site with another user, reviewed the available sharing permissions, and demonstrated how SharePoint sites can be securely shared for collaboration across the organisation.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1918" height="993" alt="Image 7" src="https://github.com/user-attachments/assets/e2bd8831-969f-4900-bb1b-0bde1fb1a2b8" />
 
 ---
@@ -949,7 +949,7 @@ SharePoint Admin Center → Policies → Sharing
 
 Successfully reviewed organisation-wide sharing settings, default sharing link permissions, and external sharing policies used to control collaboration.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1918" height="993" alt="Image 8" src="https://github.com/user-attachments/assets/d48ca27a-096c-45d5-905e-e9164ab8c713" />
 
 ---
@@ -968,7 +968,7 @@ SharePoint Admin Center → Policies → Access control
 
 Successfully reviewed access control options including unmanaged device access, idle session sign-out, network location restrictions, and legacy authentication settings.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1917" height="993" alt="Image 9" src="https://github.com/user-attachments/assets/29cf03e2-ab30-4ce3-ba8f-77081749f689" />
 
 ---
@@ -987,5 +987,5 @@ SharePoint Site → Settings → Site usage
 
 Successfully reviewed SharePoint site usage analytics, including unique viewers, site visits, average time spent per user, and popular content to monitor site activity and user engagement.
 
-## **Screenshot**
+## **Screenshots**
 <img width="1918" height="992" alt="Image 10" src="https://github.com/user-attachments/assets/ab284602-8df9-4187-bdda-517528b23d50" />
